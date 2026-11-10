@@ -1,0 +1,202 @@
+functional_group	functional_category	marker_matched	S1_3	S3_1	S3_8	S4_6	S5_2	S6_2	S6_5	S7_1	S7_10	S7_19	S7_2	S7_20	S7_28	S7_7	S7_8	S7_9	S9_9	Total_Hits
+Community metabolism & nutrient cycling	Amino acid transport & metabolism	glutamate	0	16	0	15	12	14	21	14	0	18	22	22	0	12	18	14	26	224
+Community metabolism & nutrient cycling	Amino acid transport & metabolism	amino acid	0	5	0	3	3	2	46	2	0	30	26	37	0	4	5	1	36	200
+Community metabolism & nutrient cycling	Amino acid transport & metabolism	glutamine	0	17	0	14	15	8	19	6	0	9	19	20	0	9	18	11	16	181
+Community metabolism & nutrient cycling	Amino acid transport & metabolism	lysine	0	7	0	7	5	8	5	5	0	9	11	3	0	4	3	4	7	78
+Community metabolism & nutrient cycling	Amino acid transport & metabolism	peptide transport	0	1	0	7	7	5	12	3	0	4	13	4	0	3	7	1	10	77
+Community metabolism & nutrient cycling	Amino acid transport & metabolism	leucine	0	1	0	4	3	2	11	4	0	10	7	9	0	3	3	3	6	66
+Community metabolism & nutrient cycling	Amino acid transport & metabolism	arginine	0	3	0	6	7	5	6	2	0	4	4	4	0	7	4	2	4	58
+Community metabolism & nutrient cycling	Amino acid transport & metabolism	glnB	0	0	0	1	0	1	1	0	0	1	1	2	0	1	2	1	1	12
+Community metabolism & nutrient cycling	Amino acid transport & metabolism	oligopeptide	0	0	0	1	3	1	1	1	0	0	3	0	0	1	0	0	1	12
+Community metabolism & nutrient cycling	Amino acid transport & metabolism	glnA	0	1	0	2	1	1	0	2	0	1	0	0	0	1	1	0	1	11
+Community metabolism & nutrient cycling	Amino acid transport & metabolism	glnK	0	0	0	0	0	0	1	0	0	2	1	0	0	0	0	0	2	6
+Community metabolism & nutrient cycling	Carbohydrate transport & metabolism	glucose	0	22	0	8	8	7	12	16	0	11	10	9	0	6	22	9	10	150
+Community metabolism & nutrient cycling	Carbohydrate transport & metabolism	ribose	0	4	0	7	3	3	14	5	0	4	7	6	0	2	14	3	8	80
+Community metabolism & nutrient cycling	Carbohydrate transport & metabolism	fructose	0	6	0	5	5	2	8	5	0	6	8	6	0	3	10	4	6	74
+Community metabolism & nutrient cycling	Carbohydrate transport & metabolism	mannose	0	2	0	7	8	0	2	5	0	2	1	0	0	2	5	0	3	37
+Community metabolism & nutrient cycling	Carbohydrate transport & metabolism	galactose	0	0	0	1	0	1	1	0	0	0	0	1	0	0	3	0	1	8
+Community metabolism & nutrient cycling	Carbohydrate transport & metabolism	carbohydrate	0	3	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	5
+Community metabolism & nutrient cycling	Carbohydrate transport & metabolism	PTS system	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	2
+Community metabolism & nutrient cycling	Carbohydrate transport & metabolism	sugar transport	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+Community metabolism & nutrient cycling	Carbon cycle / carbohydrate metabolism	dehydrogenase	0	98	0	67	54	71	147	81	0	119	113	102	0	49	88	48	155	1192
+Community metabolism & nutrient cycling	Carbon cycle / carbohydrate metabolism	formate	12	0	5	4	3	4	7	0	1	10	6	5	5	1	3	0	12	78
+Community metabolism & nutrient cycling	Carbon cycle / carbohydrate metabolism	acetate	0	4	0	2	0	1	11	2	0	5	8	9	0	1	5	2	20	70
+Community metabolism & nutrient cycling	Carbon cycle / carbohydrate metabolism	carbon monoxide	0	0	0	0	0	0	8	0	0	13	3	0	0	0	4	0	15	43
+Community metabolism & nutrient cycling	Carbon cycle / carbohydrate metabolism	formyl	10	0	7	0	0	0	0	0	15	0	0	0	9	0	0	0	0	41
+Community metabolism & nutrient cycling	Carbon cycle / carbohydrate metabolism	glyoxylate	0	1	0	1	2	1	5	0	0	4	1	5	0	0	0	1	6	27
+Community metabolism & nutrient cycling	Carbon cycle / carbohydrate metabolism	isocitrate lyase	0	0	0	1	0	2	1	1	0	0	2	2	0	1	2	1	1	14
+Community metabolism & nutrient cycling	Carbon cycle / carbohydrate metabolism	phosphoenolpyruvate	4	0	1	0	0	0	0	0	5	0	0	0	4	0	0	0	0	14
+Community metabolism & nutrient cycling	Carbon cycle / carbohydrate metabolism	glucokinase	4	0	0	0	0	0	0	0	4	0	0	0	2	0	0	0	0	10
+Community metabolism & nutrient cycling	Carbon cycle / carbohydrate metabolism	methanol	0	2	0	2	1	0	1	0	0	0	2	1	0	0	0	1	0	10
+Community metabolism & nutrient cycling	Carbon cycle / carbohydrate metabolism	methylenetetrahydrofolate	3	0	1	0	0	0	0	0	1	0	0	0	2	0	0	0	0	7
+Community metabolism & nutrient cycling	Carbon cycle / carbohydrate metabolism	cellobiose	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3
+Community metabolism & nutrient cycling	Cell motility	che	0	7	0	6	7	3	50	2	0	36	27	42	0	6	15	7	48	256
+Community metabolism & nutrient cycling	Cell motility	flagell	0	0	0	0	0	21	27	0	0	16	24	25	0	0	14	27	11	165
+Community metabolism & nutrient cycling	Cell motility	motA	0	1	0	9	5	1	7	0	0	8	3	5	0	2	4	5	6	56
+Community metabolism & nutrient cycling	Cell motility	fli	0	1	0	3	2	2	2	0	0	1	3	5	0	1	3	3	2	28
+Community metabolism & nutrient cycling	Cell motility	motility	0	1	0	3	2	2	3	0	0	1	3	2	0	0	2	2	1	22
+Community metabolism & nutrient cycling	Cell motility	flg	0	0	0	0	0	2	1	0	0	0	2	2	0	0	0	2	1	10
+Community metabolism & nutrient cycling	Cell motility	flh	0	0	0	0	0	1	0	0	0	1	1	2	0	1	0	0	1	7
+Community metabolism & nutrient cycling	Defense mechanisms	multidrug	0	20	0	10	14	12	27	10	0	14	16	15	0	8	14	10	25	195
+Community metabolism & nutrient cycling	Defense mechanisms	efflux	0	11	0	11	11	9	21	13	0	12	11	13	0	8	6	8	12	146
+Community metabolism & nutrient cycling	Defense mechanisms	resistance	0	13	0	9	10	4	10	13	0	6	9	5	0	3	15	12	14	123
+Community metabolism & nutrient cycling	Defense mechanisms	antitoxin	0	0	0	0	1	0	2	0	0	1	1	1	0	0	9	0	0	15
+Community metabolism & nutrient cycling	Defense mechanisms	beta-lactamase	0	2	0	0	0	1	1	0	0	0	0	1	0	3	0	0	1	9
+Community metabolism & nutrient cycling	Energy production & conversion	reductase	0	90	0	61	48	66	150	71	0	113	94	78	0	49	75	45	147	1087
+Community metabolism & nutrient cycling	Energy production & conversion	NADH	0	18	0	14	8	18	24	25	0	18	16	14	0	17	16	16	23	227
+Community metabolism & nutrient cycling	Energy production & conversion	cytochrome	0	7	0	13	10	17	29	6	0	15	27	26	0	14	12	15	26	217
+Community metabolism & nutrient cycling	Energy production & conversion	oxidase	0	16	0	6	6	25	17	8	0	12	18	11	0	11	14	6	12	162
+Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	0	7	0	8	8	8	10	8	0	10	9	9	0	10	9	9	10	115
+Community metabolism & nutrient cycling	Energy production & conversion	electron transfer	0	3	0	1	2	3	2	2	0	2	3	2	0	2	4	1	3	30
+Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	0	15	0	6	11	10	14	13	0	18	17	17	0	3	20	10	21	175
+Community metabolism & nutrient cycling	Inorganic ion transport	zinc	0	10	0	12	14	5	7	11	0	6	4	4	0	7	11	16	10	117
+Community metabolism & nutrient cycling	Inorganic ion transport	copper	0	4	0	4	6	2	3	2	0	1	3	2	0	0	5	5	1	38
+Community metabolism & nutrient cycling	Inorganic ion transport	magnesium	0	3	0	3	2	3	2	2	0	0	4	5	0	2	1	3	1	31
+Community metabolism & nutrient cycling	Inorganic ion transport	manganese	0	0	0	1	0	1	2	0	0	3	1	3	0	0	0	0	3	14
+Community metabolism & nutrient cycling	Inorganic ion transport	sulfate transport	0	1	0	1	0	2	4	1	0	0	1	0	0	0	0	1	1	12
+Community metabolism & nutrient cycling	Inorganic ion transport	nitrate transport	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	2
+Community metabolism & nutrient cycling	Iron cycling	mtrA	1	0	1	0	0	0	0	0	2	0	0	0	2	0	0	0	0	6
+Community metabolism & nutrient cycling	Iron cycling	ferritin	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3
+Community metabolism & nutrient cycling	Methane cycling	mcrA	0	0	1	0	0	0	0	0	0	0	0	0	3	0	0	0	0	4
+Community metabolism & nutrient cycling	Methane cycling	methanol dehydrogenase	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Community metabolism & nutrient cycling	Nitrogen cycle	gln	0	6	0	7	5	7	15	4	0	11	16	21	0	8	9	7	18	134
+Community metabolism & nutrient cycling	Nitrogen cycle	nitrate reductase	0	0	0	2	2	0	5	1	0	4	7	1	0	3	6	0	1	32
+Community metabolism & nutrient cycling	Nitrogen cycle	urease	0	0	0	0	0	0	7	0	0	0	0	6	0	0	0	0	7	20
+Community metabolism & nutrient cycling	Nitrogen cycle	nitrite reductase	0	0	0	1	1	0	2	3	0	1	0	1	0	0	0	1	0	10
+Community metabolism & nutrient cycling	Nitrogen cycle	nosZ	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	4
+Community metabolism & nutrient cycling	Nitrogen cycle	nifH	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Community metabolism & nutrient cycling	Nitrogen cycling	napA	1	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	4
+Community metabolism & nutrient cycling	Nitrogen cycling	narG	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	3
+Community metabolism & nutrient cycling	Nitrogen cycling	norB	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Community metabolism & nutrient cycling	Nitrogen cycling	nosZ	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Community metabolism & nutrient cycling	Secondary metabolite biosynthesis	polyketide	0	1	0	3	1	0	3	0	0	0	2	0	0	0	2	0	1	13
+Community metabolism & nutrient cycling	Secondary metabolite biosynthesis	phenazine	0	0	0	0	0	1	1	0	0	1	0	1	0	0	0	0	0	4
+Community metabolism & nutrient cycling	Secondary metabolite biosynthesis	siderophore	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Community metabolism & nutrient cycling	Signal transduction	histidine kinase	0	5	0	6	10	7	35	10	0	10	17	1	0	7	12	5	19	144
+Community metabolism & nutrient cycling	Signal transduction	response regulator	0	8	0	3	4	3	12	2	0	8	7	2	0	4	4	2	7	66
+Community metabolism & nutrient cycling	Signal transduction	chemotaxis protein	0	1	0	9	5	1	7	0	0	8	3	5	0	2	4	5	6	56
+Community metabolism & nutrient cycling	Signal transduction	sensor kinase	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	1	4
+Community metabolism & nutrient cycling	Sulfur cycle	cys	0	16	0	9	10	15	24	10	0	20	16	20	0	10	18	10	20	198
+Community metabolism & nutrient cycling	Sulfur cycle	sulfur	0	14	0	14	10	12	16	15	0	14	16	14	0	11	14	11	18	179
+Community metabolism & nutrient cycling	Sulfur cycle	sulfate	0	6	0	4	1	5	15	5	0	7	8	5	0	2	5	7	10	80
+Community metabolism & nutrient cycling	Sulfur cycle	sat	0	4	0	5	4	5	6	8	0	3	3	3	0	4	7	2	8	62
+Community metabolism & nutrient cycling	Sulfur cycle	sox	0	1	0	0	0	6	1	1	0	0	3	0	0	1	1	0	1	15
+Community metabolism & nutrient cycling	Sulfur cycle	sulfite	0	0	0	0	0	0	2	3	0	3	0	2	0	0	2	0	3	15
+Community metabolism & nutrient cycling	Sulfur cycle	aprA	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+Community metabolism & nutrient cycling	Sulfur cycling	sulfite reductase	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2
+Community metabolism & nutrient cycling	Sulfur cycling	soxB	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Extracellular enzymes & PGPR-associated traits	Amylase / starch degradation	amylase	0	1	0	0	1	0	0	3	0	0	0	1	0	0	1	1	0	8
+Extracellular enzymes & PGPR-associated traits	Amylase / starch degradation	amyA	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	3
+Extracellular enzymes & PGPR-associated traits	Amylase / starch degradation	amyB	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Extracellular enzymes & PGPR-associated traits	Amylase / starch degradation	starch	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2
+Extracellular enzymes & PGPR-associated traits	Antifungal & secondary metabolites	polyketide	0	1	0	3	1	0	3	0	0	0	2	0	0	0	2	0	1	13
+Extracellular enzymes & PGPR-associated traits	Antifungal & secondary metabolites	bacitracin	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	0	0	5
+Extracellular enzymes & PGPR-associated traits	Antifungal & secondary metabolites	antibiotic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flagell	0	0	0	0	0	20	27	0	0	16	23	25	0	0	13	26	11	161
+Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	eps	0	2	0	2	2	4	4	1	0	2	7	3	0	2	3	5	2	39
+Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	motA	0	0	0	6	3	1	5	0	0	6	3	4	0	1	3	3	4	39
+Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	0	4	0	3	4	1	4	0	0	2	2	2	0	1	7	1	6	37
+Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheY	0	1	0	3	2	0	2	0	0	2	1	1	0	1	1	2	2	18
+Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	motB	0	0	0	0	0	1	1	0	0	1	2	1	0	0	1	1	1	9
+Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheA	0	0	0	1	1	0	1	0	0	0	0	1	0	0	0	2	0	6
+Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	fliC	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	1	0	4
+Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	biofilm	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2
+Extracellular enzymes & PGPR-associated traits	Cellulase	celH	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Extracellular enzymes & PGPR-associated traits	Cellulase	endoglucanase	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Extracellular enzymes & PGPR-associated traits	Cellulase	glucanase	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Extracellular enzymes & PGPR-associated traits	Cellulase / cellulose degradation	beta-glucosidase	0	3	0	0	0	0	1	1	0	0	0	0	0	0	3	0	0	8
+Extracellular enzymes & PGPR-associated traits	Cellulase / cellulose degradation	cellulase	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2
+Extracellular enzymes & PGPR-associated traits	Cellulase / cellulose degradation	endoglucanase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+Extracellular enzymes & PGPR-associated traits	Chitinase / chitin degradation	chiA	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2
+Extracellular enzymes & PGPR-associated traits	Glycoside hydrolases	galactosidase	0	6	0	0	1	0	0	12	0	0	0	0	0	0	2	0	0	21
+Extracellular enzymes & PGPR-associated traits	Glycoside hydrolases	glucosidase	0	5	0	0	0	0	1	1	0	0	0	0	0	0	6	0	0	13
+Extracellular enzymes & PGPR-associated traits	Glycoside hydrolases	xylanase	0	2	0	0	0	0	0	3	0	0	0	0	0	0	1	0	0	6
+Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	tryptophan	0	6	0	6	5	6	6	3	0	5	5	2	0	4	4	2	6	60
+Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	indole	0	1	0	1	1	1	1	1	0	1	1	1	0	0	1	1	1	12
+Extracellular enzymes & PGPR-associated traits	Lipase	esterase	26	0	10	0	0	0	0	0	12	0	0	0	23	0	0	0	0	71
+Extracellular enzymes & PGPR-associated traits	Lipase	lipA	1	0	1	0	0	0	0	0	11	0	0	0	1	0	0	0	0	14
+Extracellular enzymes & PGPR-associated traits	Lipase	lipB	1	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	4
+Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	0	0	0	3	3	7	9	0	0	4	11	2	0	5	3	5	7	59
+Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	bacteriocin	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	effector	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Extracellular enzymes & PGPR-associated traits	Pectinase / plant cell wall	pectin	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2
+Extracellular enzymes & PGPR-associated traits	Pectinase / plant cell wall	pehA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+Extracellular enzymes & PGPR-associated traits	Phosphatase	phoD	9	0	3	0	0	0	0	0	6	0	0	0	11	0	0	0	0	29
+Extracellular enzymes & PGPR-associated traits	Phosphatase	alkaline phosphatase	5	0	2	0	0	0	0	0	1	0	0	0	2	0	0	0	0	10
+Extracellular enzymes & PGPR-associated traits	Phosphatase	phoC	0	0	3	0	0	0	0	0	2	0	0	0	1	0	0	0	0	6
+Extracellular enzymes & PGPR-associated traits	Phosphatase	phoA	1	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	4
+Extracellular enzymes & PGPR-associated traits	Phosphatase	acid phosphatase	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	phosphate	0	88	0	69	65	58	87	81	0	68	96	88	0	49	103	70	78	1000
+Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	phosphatase	0	19	0	25	19	19	40	19	0	21	27	29	0	12	31	23	29	313
+Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	phoR	0	22	0	29	21	15	29	20	0	24	25	26	0	14	28	27	28	308
+Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	phoD	0	5	0	7	4	6	9	2	0	4	11	3	0	4	2	5	4	66
+Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	phoB	0	2	0	0	2	2	2	0	0	2	3	3	0	1	1	3	3	24
+Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	pstB	0	0	0	2	2	0	0	1	0	1	1	1	0	1	1	1	2	13
+Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	pstA	0	0	0	1	1	0	0	1	0	1	1	1	0	1	0	1	1	9
+Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	pstC	0	0	0	1	1	0	0	1	0	1	1	1	0	1	1	0	1	9
+Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	pstS	0	0	0	1	1	0	0	1	0	1	1	1	0	1	1	0	1	9
+Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	phoA	0	0	0	1	0	0	1	1	0	1	0	0	0	0	1	0	0	5
+Extracellular enzymes & PGPR-associated traits	Potassium transport	potassium	0	7	0	4	2	2	4	4	0	6	2	4	0	4	3	2	5	49
+Extracellular enzymes & PGPR-associated traits	Potassium transport	kup	0	2	0	1	1	1	1	1	0	2	2	1	0	3	0	1	1	17
+Extracellular enzymes & PGPR-associated traits	Potassium transport	kdpB	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	1	4
+Extracellular enzymes & PGPR-associated traits	Potassium transport	trkA	0	0	0	0	0	1	1	0	0	0	0	0	0	0	2	0	0	4
+Extracellular enzymes & PGPR-associated traits	Potassium transport	kdpA	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	3
+Extracellular enzymes & PGPR-associated traits	Potassium transport	kdpC	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	3
+Extracellular enzymes & PGPR-associated traits	Potassium transport	trkH	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	2
+Extracellular enzymes & PGPR-associated traits	Protease	aprE	20	0	21	0	0	0	0	0	9	0	0	0	19	0	0	0	0	69
+Extracellular enzymes & PGPR-associated traits	Protease	metalloprotease	7	0	1	0	0	0	0	0	3	0	0	0	6	0	0	0	0	17
+Extracellular enzymes & PGPR-associated traits	Protease	serine protease	2	0	2	0	0	0	0	0	1	0	0	0	4	0	0	0	0	9
+Extracellular enzymes & PGPR-associated traits	Protease	subtilisin	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Extracellular enzymes & PGPR-associated traits	Siderophore & iron acquisition	entA	0	3	0	2	2	2	3	1	0	3	3	2	0	2	4	2	11	40
+Extracellular enzymes & PGPR-associated traits	Siderophore & iron acquisition	ferric	0	0	0	1	1	1	2	0	0	1	2	1	0	2	1	5	0	17
+Extracellular enzymes & PGPR-associated traits	Siderophore & iron acquisition	feoB	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	3
+Extracellular enzymes & PGPR-associated traits	Siderophore & iron acquisition	fhu	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	3
+Extracellular enzymes & PGPR-associated traits	Siderophore & iron acquisition	dhbF	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	2
+Extracellular enzymes & PGPR-associated traits	Siderophore & iron acquisition	iron transport	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	2
+Extracellular enzymes & PGPR-associated traits	Siderophore & iron acquisition	dhbA	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+Extracellular enzymes & PGPR-associated traits	Siderophore & iron acquisition	siderophore	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+Extracellular enzymes & PGPR-associated traits	Xylanase	xylA	44	0	20	0	0	0	0	0	34	0	0	0	29	0	0	0	0	127
+Extracellular enzymes & PGPR-associated traits	Xylanase	xylB	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	2
+Extracellular enzymes & PGPR-associated traits	Xylanase	xynA	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Extracellular enzymes & PGPR-associated traits	Xylanase	xynB	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Microbe–plant interaction	ACC deaminase	accD	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2
+Microbe–plant interaction	ACC deaminase	acdS	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Microbe–plant interaction	Cytokinin-related	ipt	99	81	38	39	26	56	143	54	101	63	76	76	69	42	79	38	60	1140
+Microbe–plant interaction	Cytokinin-related	cytokinin	0	0	0	0	0	1	1	0	0	1	1	0	1	0	1	0	0	6
+Microbe–plant interaction	Cytokinin-related	miaA	1	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	4
+Microbe–plant interaction	Cytokinin-related	LOG family	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2
+Microbe–plant interaction	Ethylene-related	acetolactate	0	2	0	4	0	2	5	1	0	3	5	3	0	1	2	2	9	39
+Microbe–plant interaction	Ethylene-related	ethylene	0	1	0	1	2	2	4	1	0	6	2	2	0	2	4	1	7	35
+Microbe–plant interaction	Gibberellin / terpenoid	phytoene	0	0	0	2	0	2	1	0	0	1	1	1	0	0	2	1	0	11
+Microbe–plant interaction	Gibberellin / terpenoid	geranylgeranyl	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2
+Microbe–plant interaction	IAA biosynthesis	trpB	1	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	4
+Microbe–plant interaction	IAA biosynthesis	trpC	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	3
+Microbe–plant interaction	IAA biosynthesis	trpD	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	3
+Microbe–plant interaction	IAA biosynthesis	indole-3-pyruvate	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Microbe–plant interaction	Microbe–plant interaction (other)	glnA	2	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	5
+Microbe–plant interaction	Microbe–plant interaction (other)	trxB	1	0	1	0	0	0	0	0	0	0	0	0	3	0	0	0	0	5
+Microbe–plant interaction	Microbe–plant interaction (other)	glnB	1	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	4
+Microbe–plant interaction	Microbe–plant interaction (other)	trxA	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	3
+Microbe–plant interaction	Microbe–plant interaction (other)	dksA	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Microbe–plant interaction	Nitrogen fixation	nifE	2	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	4
+Microbe–plant interaction	Phosphate solubilization	pqqA	3	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	6
+Microbe–plant interaction	Phosphate solubilization	pqqC	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Microbe–plant interaction	Phosphate solubilization	pqqB	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Microbe–plant interaction	Salicylate & aromatic metabolism	benzoate	0	3	0	1	2	2	17	1	0	12	8	3	0	3	4	3	20	79
+Microbe–plant interaction	Salicylate & aromatic metabolism	phenylacetate	0	0	0	0	0	0	7	0	0	2	3	4	0	1	1	1	5	24
+Microbe–plant interaction	Salicylate & aromatic metabolism	catechol	0	1	0	1	2	0	3	1	0	2	0	0	0	0	0	0	4	14
+Microbe–plant interaction	Salicylate & aromatic metabolism	salicylate	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	2
+Microbe–plant interaction	Siderophore biosynthesis	siderophore	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	4
+Microbe–plant interaction	Siderophore biosynthesis	dhbB	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Microbe–plant interaction	Stress response & detoxification	glutathione	0	7	0	9	6	13	30	6	0	15	32	23	0	18	5	7	22	193
+Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	0	5	0	4	3	4	4	3	0	5	3	4	0	4	3	4	2	48
+Microbe–plant interaction	Stress response & detoxification	thioredoxin	0	6	0	2	2	3	3	4	0	2	3	5	0	2	5	3	3	43
+Microbe–plant interaction	Stress response & detoxification	cold shock	0	0	0	3	3	0	2	1	0	4	3	4	0	1	2	1	5	29
+Microbe–plant interaction	Stress response & detoxification	heat shock	0	4	0	2	1	0	2	2	0	3	1	2	0	2	2	0	4	25
+Microbe–plant interaction	Stress response & detoxification	peroxidase	0	3	0	2	0	1	3	1	0	2	0	0	0	0	1	3	2	18
+Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	0	1	0	2	1	2	2	1	0	1	2	1	0	1	1	1	1	17
+Microbe–plant interaction	Stress response & detoxification	catalase	0	0	0	1	0	1	2	1	0	1	1	1	0	0	1	1	1	11
+Microbe–plant interaction	Stress response & detoxification	osmoprotectant	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Microbe–plant interaction	Volatile production	acetoin	4	0	2	0	0	0	0	0	2	0	0	0	6	0	0	0	0	14
+Microbe–plant interaction	Volatile production	acs	3	0	2	0	0	0	0	0	4	0	0	0	3	0	0	0	0	12
+Microbe–plant interaction	Volatile production	acetolactate	1	0	0	0	0	0	0	0	4	0	0	0	2	0	0	0	0	7

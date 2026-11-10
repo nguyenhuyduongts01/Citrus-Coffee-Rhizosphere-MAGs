@@ -1,0 +1,6 @@
+analysis	statistic
+PERMANOVA host/site	F = 3.746; R2 = 0.273; p = 0.0052
+PERMANOVA symptom status	F = 1.563; R2 = 0.135; p = 0.1017
+PCoA axes	PC1 = 33.5%; PC2 = 16.2%
+Mann-Whitney U, Shannon	host/site p = 0.240; symptom status p = 0.109
+Mann-Whitney U, Observed genus richness	host/site p = 0.109; symptom status p = 0.061

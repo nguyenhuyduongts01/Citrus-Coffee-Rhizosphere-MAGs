@@ -1,0 +1,11 @@
+layer	factor	pseudo_F_recomputed	R2_recomputed	exact_permutation_p	mc_p_9999_seed42	note	pseudo_F_reported	p_reported	F_matches_reported
+Genus	host	3.746	0.273	0.0043			3.746	0.003	True
+Genus	condition	1.563	0.135	0.1051		symptomatic = S1, S2, S9, S11 (Section 2.1)	1.563	0.118	True
+KEGG	host	5.234	0.344	0.0022			5.23	0.003	True
+KEGG	condition	1.349	0.119	0.198		grouping from Metadata_12samples_MaAsLin2.tsv	1.35	0.189	True
+COG	host	14.463	0.591	0.0022			14.46	0.004	True
+COG	condition	1.457	0.127	0.2485		grouping from Metadata_12samples_MaAsLin2.tsv	1.46	0.248	True
+CAZy	host	5.801	0.367	0.0022			5.8	0.002	True
+CAZy	condition	1.461	0.127	0.2		grouping from Metadata_12samples_MaAsLin2.tsv	1.46	0.19	True
+62MQ_MAGs	host	4.751	0.322		0.0215	62 MQ+HQ MAGs (55 detected), Bray-Curtis on relative abundance	4.751	0.0215	True
+62MQ_MAGs	condition	0.586	0.055		0.622	62 MQ+HQ MAGs (55 detected), Bray-Curtis on relative abundance	0.586	0.622	True

@@ -1,0 +1,13 @@
+sample	host	condition
+S1	Citrus	Disease
+S2	Citrus	Disease
+S3	Citrus	Disease
+S4	Citrus	Disease
+S5	Citrus	Healthy
+S6	Citrus	Healthy
+S7	Coffee	Healthy
+S8	Coffee	Healthy
+S9	Coffee	Disease
+S10	Coffee	Disease
+S11	Coffee	Disease
+S12	Coffee	Disease

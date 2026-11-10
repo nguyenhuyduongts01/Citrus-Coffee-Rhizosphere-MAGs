@@ -1,0 +1,484 @@
+mag_id	functional_group	functional_category	marker_matched	gene_display	n_hits
+Sg_S6_5	Community metabolism & nutrient cycling	Amino acid transport & metabolism	amino acid transport	livF_18	42
+Sg_S9_9	Community metabolism & nutrient cycling	Amino acid transport & metabolism	amino acid transport	livF_18	35
+Sg_S6_5	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	35
+Sg_S7_20	Community metabolism & nutrient cycling	Amino acid transport & metabolism	amino acid transport	livF_18	34
+Sg_S7_19	Community metabolism & nutrient cycling	Amino acid transport & metabolism	amino acid transport	livF_18	29
+Sg_S7_2	Community metabolism & nutrient cycling	Amino acid transport & metabolism	amino acid transport	livF_18	23
+Sg_S9_9	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	21
+Sg_S1_3	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	21
+Sg_S7_1	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	21
+Sg_S7_8	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	20
+Sg_S6_5	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	20
+Sg_S9_9	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	19
+Sg_S9_9	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	19
+Sg_S7_19	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	18
+Sg_S7_28	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	18
+Sg_S7_2	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	17
+Sg_S7_20	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	17
+Sg_S7_2	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	17
+Sg_S1_3	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	17
+Sg_S7_28	Community metabolism & nutrient cycling	Amino acid transport & metabolism	amino acid transport	livF_18	16
+Sg_S6_5	Community metabolism & nutrient cycling	Carbon cycle	acetyl-CoA	uctC_4	15
+Sg_S9_9	Community metabolism & nutrient cycling	Carbon cycle	carbon monoxide dehydrogenase	coxL_3	15
+Sg_S3_1	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	15
+Sg_S7_28	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	15
+Sg_S1_3	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	15
+Sg_S6_5	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	14
+Sg_S6_2	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	14
+Sg_S7_2	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	13
+Sg_S7_1	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	13
+Sg_S9_9	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	13
+Sg_S1_3	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	13
+Sg_S1_3	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	13
+Sg_S7_19	Community metabolism & nutrient cycling	Carbon cycle	carbon monoxide dehydrogenase	coxL_3	13
+Sg_S7_9	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	13
+Sg_S3_1	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	13
+Sg_S7_8	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	13
+Sg_S7_8	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	12
+Sg_S7_10	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	12
+Sg_S5_2	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	12
+Sg_S6_5	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	12
+Sg_S7_8	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	12
+Sg_S7_1	Extracellular enzymes & PGPR-associated traits	Glycoside hydrolases	galactosidase	rafA	12
+Sg_S7_2	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	11
+Sg_S7_7	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	11
+Sg_S3_8	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	11
+Sg_S7_20	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	11
+Sg_S7_2	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	11
+Sg_S1_3	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	11
+Sg_S1_3	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	11
+Sg_S6_5	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	11
+Sg_S4_6	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	11
+Sg_S7_19	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	11
+Sg_S5_2	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	11
+Sg_S3_1	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	11
+Sg_S6_2	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	11
+Sg_S9_9	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	10
+Sg_S4_6	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	10
+Sg_S5_2	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	10
+Sg_S6_2	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	10
+Sg_S7_9	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	10
+Sg_S7_1	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	10
+Sg_S7_10	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	10
+Sg_S7_19	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	10
+Sg_S7_2	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	10
+Sg_S7_8	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	10
+Sg_S7_20	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	10
+Sg_S7_19	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	10
+Sg_S7_7	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	10
+Sg_S7_19	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	10
+Sg_S6_5	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	10
+Sg_S7_8	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	9
+Sg_S7_9	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	9
+Sg_S7_20	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	9
+Sg_S3_8	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	9
+Sg_S7_2	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	9
+Sg_S3_8	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	9
+Sg_S7_10	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	9
+Sg_S7_28	Community metabolism & nutrient cycling	Energy production & conversion	cytochrome c oxidase	ctaC	9
+Sg_S3_8	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	9
+Sg_S7_20	Community metabolism & nutrient cycling	Carbon cycle	acetyl-CoA	uctC_4	9
+Sg_S1_3	Community metabolism & nutrient cycling	Energy production & conversion	cytochrome c oxidase	ctaC	9
+Sg_S6_5	Community metabolism & nutrient cycling	Defense mechanisms	efflux pump	pbuE	9
+Sg_S6_5	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	9
+Sg_S1_3	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	9
+Sg_S7_28	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	8
+Sg_S4_6	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	8
+Sg_S5_2	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	8
+Sg_S6_2	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	8
+Sg_S7_28	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	8
+Sg_S3_1	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	8
+Sg_S7_19	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	8
+Sg_S3_1	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	8
+Sg_S7_1	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	8
+Sg_S7_28	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	8
+Sg_S7_9	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	8
+Sg_S3_8	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	8
+Sg_S7_28	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	8
+Sg_S7_28	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	8
+Sg_S7_1	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	8
+Sg_S7_1	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	8
+Sg_S7_10	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	8
+Sg_S7_2	Community metabolism & nutrient cycling	Energy production & conversion	cytochrome c oxidase	ctaC	8
+Sg_S1_3	Community metabolism & nutrient cycling	Defense mechanisms	efflux pump	pbuE	8
+Sg_S6_5	Community metabolism & nutrient cycling	Carbon cycle	carbon monoxide dehydrogenase	coxL_3	8
+Sg_S9_9	Community metabolism & nutrient cycling	Carbon cycle	acetyl-CoA	uctC_4	8
+Sg_S6_2	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	7
+Sg_S7_2	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	7
+Sg_S6_2	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	7
+Sg_S9_9	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	7
+Sg_S1_3	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	7
+Sg_S5_2	Community metabolism & nutrient cycling	Defense mechanisms	efflux pump	pbuE	7
+Sg_S7_8	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	7
+Sg_S9_9	Community metabolism & nutrient cycling	Defense mechanisms	efflux pump	pbuE	7
+Sg_S3_8	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	7
+Sg_S7_7	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	7
+Sg_S7_20	Community metabolism & nutrient cycling	Energy production & conversion	cytochrome c oxidase	ctaC	7
+Sg_S7_19	Community metabolism & nutrient cycling	Carbon cycle	acetyl-CoA	uctC_4	7
+Sg_S7_2	Community metabolism & nutrient cycling	Nitrogen cycle	nitrate reductase	napA	7
+Sg_S3_1	Community metabolism & nutrient cycling	Energy production & conversion	ATP synthase	yscN	7
+Sg_S7_20	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	7
+Sg_S5_2	Community metabolism & nutrient cycling	Energy production & conversion	NADH-quinone oxidoreductase	nuoN	7
+Sg_S4_6	Community metabolism & nutrient cycling	Energy production & conversion	cytochrome c oxidase	ctaC	7
+Sg_S9_9	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	7
+Sg_S7_28	Community metabolism & nutrient cycling	Nitrogen cycle	urease	ureD	6
+Sg_S7_20	Community metabolism & nutrient cycling	Nitrogen cycle	urease	ureD	6
+Sg_S7_2	Community metabolism & nutrient cycling	Carbon cycle	acetyl-CoA	uctC_4	6
+Sg_S4_6	Community metabolism & nutrient cycling	Inorganic ion transport	ABC transporter	ydcV_2	6
+Sg_S1_3	Community metabolism & nutrient cycling	Carbon cycle	acetyl-CoA	uctC_4	6
+Sg_S7_8	Community metabolism & nutrient cycling	Nitrogen cycle	nitrate reductase	napA	6
+Sg_S3_1	Extracellular enzymes & PGPR-associated traits	Glycoside hydrolases	galactosidase	rafA	6
+Sg_S4_6	Community metabolism & nutrient cycling	Defense mechanisms	efflux pump	pbuE	6
+Sg_S7_19	Community metabolism & nutrient cycling	Defense mechanisms	efflux pump	pbuE	6
+Sg_S7_20	Community metabolism & nutrient cycling	Defense mechanisms	efflux pump	pbuE	6
+Sg_S7_28	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	6
+Sg_S9_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	6
+Sg_S6_2	Community metabolism & nutrient cycling	Energy production & conversion	cytochrome c oxidase	ctaC	6
+Sg_S7_28	Community metabolism & nutrient cycling	Sulfur cycle	thiosulfate	cysA_4	6
+Sg_S4_6	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	chemotaxis	cheR1	6
+Sg_S7_19	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	chemotaxis	cheR1	6
+Sg_S7_10	Community metabolism & nutrient cycling	Defense mechanisms	multidrug efflux	oqxB7	6
+Sg_S4_6	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	6
+Sg_S1_3	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	6
+Sg_S6_5	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	6
+Sg_S4_6	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	6
+Sg_S3_1	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	5
+Sg_S7_9	Community metabolism & nutrient cycling	Signal transduction	histidine kinase	rcsC_17	5
+Sg_S3_1	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	5
+Sg_S1_3	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	alkaline phosphatase	pehA	5
+Sg_S3_8	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	5
+Sg_S6_5	Microbe–plant interaction	Aromatic compound metabolism	phenylacetate	paaK	5
+Sg_S7_20	Community metabolism & nutrient cycling	Carbon cycle	formate dehydrogenase	fdhB1	5
+Sg_S3_1	Community metabolism & nutrient cycling	Defense mechanisms	efflux pump	pbuE	5
+Sg_S1_3	Community metabolism & nutrient cycling	Carbon cycle	formate dehydrogenase	fdhB1	5
+Sg_S6_2	Community metabolism & nutrient cycling	Defense mechanisms	efflux pump	pbuE	5
+Sg_S7_1	Community metabolism & nutrient cycling	Defense mechanisms	efflux pump	pbuE	5
+Sg_S7_7	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	5
+Sg_S7_9	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	5
+Sg_S9_9	Microbe–plant interaction	Stress response & detoxification	cold shock protein	cspA_5	5
+Sg_S6_5	Microbe–plant interaction	Stress response & detoxification	glutathione S-transferase	gstB_3	5
+Sg_S6_2	Community metabolism & nutrient cycling	Carbon cycle	acetyl-CoA	uctC_4	5
+Sg_S7_10	Community metabolism & nutrient cycling	Nitrogen cycle	urease	ureD	5
+Sg_S7_19	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	5
+Sg_S7_28	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	5
+Sg_S7_7	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	4
+Sg_S9_9	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	4
+Sg_S7_8	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	4
+Sg_S6_5	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	4
+Sg_S7_7	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	4
+Sg_S7_8	Community metabolism & nutrient cycling	Amino acid transport & metabolism	amino acid transport	livF_18	4
+Sg_S3_1	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	4
+Sg_S7_7	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	4
+Sg_S9_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	chemotaxis	cheR1	4
+Sg_S6_5	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	alkaline phosphatase	pehA	4
+Sg_S7_7	Community metabolism & nutrient cycling	Carbon cycle	acetyl-CoA	uctC_4	4
+Sg_S7_8	Community metabolism & nutrient cycling	Carbon cycle	carbon monoxide dehydrogenase	coxL_3	4
+Sg_S6_2	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	4
+Sg_S7_9	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	4
+Sg_S7_10	Community metabolism & nutrient cycling	Nitrogen cycle	nitrate reductase	napA	4
+Sg_S3_8	Community metabolism & nutrient cycling	Defense mechanisms	efflux pump	pbuE	4
+Sg_S7_19	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	4
+Sg_S6_5	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	4
+Sg_S6_5	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	chemotaxis	cheR1	4
+Sg_S3_8	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	pilT	pilT_2	4
+Sg_S6_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	pilT	pilT_2	4
+Sg_S4_6	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	pilT	pilT_2	4
+Sg_S7_7	Community metabolism & nutrient cycling	Energy production & conversion	cytochrome c oxidase	ctaC	4
+Sg_S7_7	Community metabolism & nutrient cycling	Defense mechanisms	efflux pump	pbuE	4
+Sg_S3_8	Community metabolism & nutrient cycling	Energy production & conversion	cytochrome c oxidase	ctaC	4
+Sg_S5_2	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	4
+Sg_S7_10	Extracellular enzymes & PGPR-associated traits	Siderophore & iron acquisition	siderophore	yfiY	4
+Sg_S3_1	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	4
+Sg_S3_8	Community metabolism & nutrient cycling	Defense mechanisms	multidrug resistance	mdtA_7	4
+Sg_S5_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	4
+Sg_S3_8	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	4
+Sg_S7_20	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	4
+Sg_S4_6	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	4
+Sg_S7_19	Microbe–plant interaction	Stress response & detoxification	cold shock protein	cspA_5	4
+Sg_S1_3	Microbe–plant interaction	Stress response & detoxification	cold shock protein	cspA_5	4
+Sg_S9_9	Microbe–plant interaction	Stress response & detoxification	glutathione S-transferase	gstB_3	4
+Sg_S3_8	Community metabolism & nutrient cycling	Defense mechanisms	beta-lactamase	ampC	4
+Sg_S5_2	Community metabolism & nutrient cycling	Energy production & conversion	cytochrome c oxidase	ctaC	4
+Sg_S7_20	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	chemotaxis	cheR1	3
+Sg_S7_8	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	chemotaxis	cheR1	3
+Sg_S7_10	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	3
+Sg_S7_19	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	3
+Sg_S6_2	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	3
+Sg_S5_2	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	3
+Sg_S7_10	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	3
+Sg_S3_8	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	3
+Sg_S4_6	Community metabolism & nutrient cycling	Amino acid transport & metabolism	glutamine synthetase	glnE	3
+Sg_S7_8	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	3
+Sg_S4_6	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	3
+Sg_S5_2	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	3
+Sg_S3_8	Community metabolism & nutrient cycling	Carbon cycle	formate dehydrogenase	fdhB1	3
+Sg_S7_7	Community metabolism & nutrient cycling	Energy production & conversion	ubiquinol oxidase	cydB	3
+Sg_S7_1	Community metabolism & nutrient cycling	Sulfur cycle	sulfite reductase	sir_2	3
+Sg_S7_10	Community metabolism & nutrient cycling	Sulfur cycle	thiosulfate	cysA_4	3
+Sg_S7_7	Community metabolism & nutrient cycling	Energy production & conversion	electron transfer flavoprotein	etfB	3
+Sg_S7_9	Community metabolism & nutrient cycling	Energy production & conversion	cytochrome c oxidase	ctaC	3
+Sg_S7_8	Community metabolism & nutrient cycling	Energy production & conversion	cytochrome c oxidase	ctaC	3
+Sg_S6_2	Community metabolism & nutrient cycling	Energy production & conversion	electron transfer flavoprotein	etfB	3
+Sg_S5_2	Community metabolism & nutrient cycling	Energy production & conversion	electron transfer flavoprotein	etfB	3
+Sg_S9_9	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpB	trpB_3	3
+Sg_S7_10	Extracellular enzymes & PGPR-associated traits	Glycoside hydrolases	galactosidase	rafA	3
+Sg_S7_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	pilT	pilT_2	3
+Sg_S3_1	Extracellular enzymes & PGPR-associated traits	Cellulase / cellulose degradation	beta-glucosidase	bglA_2	3
+Sg_S5_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	chemotaxis	cheR1	3
+Sg_S5_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	pilT	pilT_2	3
+Sg_S6_5	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	pilT	pilT_2	3
+Sg_S1_3	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	pilT	pilT_2	3
+Sg_S7_8	Extracellular enzymes & PGPR-associated traits	Cellulase / cellulose degradation	beta-glucosidase	bglA_2	3
+Sg_S7_28	Extracellular enzymes & PGPR-associated traits	Cellulase / cellulose degradation	beta-glucosidase	bglA_2	3
+Sg_S7_9	Community metabolism & nutrient cycling	Defense mechanisms	efflux pump	pbuE	3
+Sg_S7_10	Community metabolism & nutrient cycling	Energy production & conversion	cytochrome c oxidase	ctaC	3
+Sg_S7_7	Extracellular enzymes & PGPR-associated traits	Potassium transport	kup	kup	3
+Sg_S7_10	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	phosphate transport	pstC2	3
+Sg_S7_8	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	alkaline phosphatase	pehA	3
+Sg_S4_6	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	3
+Sg_S7_1	Community metabolism & nutrient cycling	Carbon cycle	acetyl-CoA	uctC_4	3
+Sg_S7_10	Community metabolism & nutrient cycling	Carbon cycle	acetyl-CoA	uctC_4	3
+Sg_S7_2	Microbe–plant interaction	Aromatic compound metabolism	phenylacetate	paaK	3
+Sg_S3_1	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	alkaline phosphatase	pehA	3
+Sg_S4_6	Community metabolism & nutrient cycling	Sulfur cycle	thiosulfate	cysA_4	3
+Sg_S7_2	Microbe–plant interaction	Stress response & detoxification	glutathione S-transferase	gstB_3	3
+Sg_S7_20	Microbe–plant interaction	Stress response & detoxification	cold shock protein	cspA_5	3
+Sg_S5_2	Community metabolism & nutrient cycling	Carbohydrate transport & metabolism	PTS system	manX	3
+Sg_S6_2	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	3
+Sg_S7_1	Community metabolism & nutrient cycling	Nitrogen cycle	nitrite reductase	aniA	3
+Sg_S5_2	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	3
+Sg_S7_1	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	3
+Sg_S7_10	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	3
+Sg_S7_2	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	3
+Sg_S7_8	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	3
+Sg_S4_6	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	2
+Sg_S9_9	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	2
+Sg_S7_28	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	2
+Sg_S3_1	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	2
+Sg_S7_1	Community metabolism & nutrient cycling	Amino acid transport & metabolism	glutamine synthetase	glnE	2
+Sg_S3_1	Community metabolism & nutrient cycling	Amino acid transport & metabolism	glutamine synthetase	glnE	2
+Sg_S4_6	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	2
+Sg_S6_5	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	2
+Sg_S7_1	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	2
+Sg_S7_20	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	2
+Sg_S7_28	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	2
+Sg_S7_7	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	2
+Sg_S7_8	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	2
+Sg_S3_1	Community metabolism & nutrient cycling	Carbon cycle	acetyl-CoA	uctC_4	2
+Sg_S7_28	Microbe–plant interaction	Stress response & detoxification	cold shock protein	cspA_5	2
+Sg_S7_8	Microbe–plant interaction	Stress response & detoxification	cold shock protein	cspA_5	2
+Sg_S6_2	Microbe–plant interaction	Stress response & detoxification	glutathione S-transferase	gstB_3	2
+Sg_S7_20	Microbe–plant interaction	Stress response & detoxification	glutathione S-transferase	gstB_3	2
+Sg_S3_1	Microbe–plant interaction	Stress response & detoxification	glutathione peroxidase	btuE	2
+Sg_S7_9	Community metabolism & nutrient cycling	Signal transduction	response regulator	todT	2
+Sg_S7_10	Microbe–plant interaction	Stress response & detoxification	catalase	katG	2
+Sg_S7_10	Microbe–plant interaction	Stress response & detoxification	cold shock protein	cspA_5	2
+Sg_S1_3	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene synthase	crtB	2
+Sg_S6_5	Microbe–plant interaction	Stress response & detoxification	catalase	katG	2
+Sg_S7_19	Microbe–plant interaction	Aromatic compound metabolism	phenylacetate	paaK	2
+Sg_S7_20	Microbe–plant interaction	Aromatic compound metabolism	phenylacetate	paaK	2
+Sg_S9_9	Microbe–plant interaction	Aromatic compound metabolism	phenylacetate	paaK	2
+Sg_S1_3	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene desaturase	crtI	2
+Sg_S7_10	Extracellular enzymes & PGPR-associated traits	Potassium transport	trkA	trkA_2	2
+Sg_S7_8	Extracellular enzymes & PGPR-associated traits	Potassium transport	trkA	trkA_2	2
+Sg_S3_1	Community metabolism & nutrient cycling	Sulfur cycle	thiosulfate	cysA_4	2
+Sg_S7_2	Extracellular enzymes & PGPR-associated traits	Siderophore & iron acquisition	dhbF	dhbF	2
+Sg_S3_1	Extracellular enzymes & PGPR-associated traits	Potassium transport	kup	kup	2
+Sg_S7_19	Extracellular enzymes & PGPR-associated traits	Potassium transport	kup	kup	2
+Sg_S7_2	Extracellular enzymes & PGPR-associated traits	Potassium transport	kup	kup	2
+Sg_S1_3	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	pstS	pstS	2
+Sg_S5_2	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	pstB	pstB	2
+Sg_S3_1	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	ppk	ppk	2
+Sg_S7_2	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	phosphate transport	pstC2	2
+Sg_S7_20	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	phosphate transport	pstC2	2
+Sg_S6_5	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	phoD	phoD	2
+Sg_S7_1	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	alkaline phosphatase	pehA	2
+Sg_S7_28	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	alkaline phosphatase	pehA	2
+Sg_S9_9	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	alkaline phosphatase	pehA	2
+Sg_S7_9	Community metabolism & nutrient cycling	Sulfur cycle	thiosulfate	cysA_4	2
+Sg_S3_1	Extracellular enzymes & PGPR-associated traits	Amylase / starch degradation	amyB	amyB_2	2
+Sg_S7_20	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	2
+Sg_S7_28	Extracellular enzymes & PGPR-associated traits	Microbial competition & secretion	secretion system	sctC_4	2
+Sg_S6_5	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpF	trpF	2
+Sg_S6_5	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpB	trpB_3	2
+Sg_S7_1	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpB	trpB_3	2
+Sg_S7_19	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpB	trpB_3	2
+Sg_S3_1	Extracellular enzymes & PGPR-associated traits	Glycoside hydrolases	xylanase	xynZ	2
+Sg_S7_1	Extracellular enzymes & PGPR-associated traits	Glycoside hydrolases	xylanase	xynZ	2
+Sg_S7_1	Extracellular enzymes & PGPR-associated traits	Amylase / starch degradation	amylase	treS	2
+Sg_S7_8	Extracellular enzymes & PGPR-associated traits	Glycoside hydrolases	galactosidase	rafA	2
+Sg_S7_28	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	pilT	pilT_2	2
+Sg_S7_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	pilT	pilT_2	2
+Sg_S7_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	motB	motB	2
+Sg_S7_8	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	fliA	fliA	2
+Sg_S6_5	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	fliP	fliP	2
+Sg_S4_6	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	2
+Sg_S7_19	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	2
+Sg_S7_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	2
+Sg_S7_20	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	2
+Sg_S4_6	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheY	cheY_2	2
+Sg_S9_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgG	flgG_2	2
+Sg_S7_10	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flhB	flhB	2
+Sg_S7_19	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgG	flgG_2	2
+Sg_S7_19	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgC	flgC	2
+Sg_S7_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	chemotaxis	cheR1	2
+Sg_S7_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	chemotaxis	cheR1	2
+Sg_S6_5	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheY	cheY_2	2
+Sg_S7_19	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheY	cheY_2	2
+Sg_S7_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheY	cheY_2	2
+Sg_S9_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheY	cheY_2	2
+Sg_S1_3	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	chemotaxis	cheR1	2
+Sg_S6_2	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	2
+Sg_S6_2	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	2
+Sg_S7_20	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	2
+Sg_S7_28	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	2
+Sg_S7_8	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	2
+Sg_S7_19	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	2
+Sg_S7_7	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	2
+Sg_S6_5	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	2
+Sg_S7_2	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	2
+Sg_S9_9	Microbe–plant interaction	Stress response & detoxification	peroxiredoxin	bcp_2	2
+Sg_S3_1	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	1
+Sg_S7_19	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	1
+Sg_S7_10	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	1
+Sg_S7_1	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	1
+Sg_S7_9	Community metabolism & nutrient cycling	Amino acid transport & metabolism	amino acid transport	livF_18	1
+Sg_S9_9	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	1
+Sg_S7_9	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	1
+Sg_S7_7	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	1
+Sg_S5_2	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	1
+Sg_S7_2	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	1
+Sg_S9_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgC	flgC	1
+Sg_S6_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgD	flgD	1
+Sg_S7_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgD	flgD	1
+Sg_S7_20	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgD	flgD	1
+Sg_S7_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgD	flgD	1
+Sg_S9_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgD	flgD	1
+Sg_S7_7	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	chemotaxis	cheR1	1
+Sg_S7_10	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flagellar assembly	fliH	1
+Sg_S7_19	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flagellar assembly	fliH	1
+Sg_S7_8	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flagellar assembly	fliH	1
+Sg_S7_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flagellar assembly	fliH	1
+Sg_S7_8	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flagellin	hag	1
+Sg_S6_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgB	flgB	1
+Sg_S7_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgB	flgB	1
+Sg_S7_20	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgF	flgF	1
+Sg_S7_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgF	flgF	1
+Sg_S6_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgG	flgG_2	1
+Sg_S7_20	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgG	flgG_2	1
+Sg_S7_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgB	flgB	1
+Sg_S6_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgC	flgC	1
+Sg_S7_10	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgC	flgC	1
+Sg_S7_20	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgC	flgC	1
+Sg_S7_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgC	flgC	1
+Sg_S7_20	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flhA	flhA_1	1
+Sg_S7_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flhA	flhA_1	1
+Sg_S9_9	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flhA	flhA_1	1
+Sg_S6_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flhB	flhB	1
+Sg_S7_19	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flhB	flhB	1
+Sg_S6_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgE	flgE	1
+Sg_S7_10	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgE	flgE	1
+Sg_S6_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flgF	flgF	1
+Sg_S6_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	1
+Sg_S7_7	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheB	cheB_6	1
+Sg_S1_3	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheY	cheY_2	1
+Sg_S3_1	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheY	cheY_2	1
+Sg_S1_3	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	fliA	fliA	1
+Sg_S7_10	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	fliA	fliA	1
+Sg_S7_10	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	flhA	flhA_1	1
+Sg_S1_3	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	fliP	fliP	1
+Sg_S7_20	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	fliP	fliP	1
+Sg_S7_28	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	fliA	fliA	1
+Sg_S1_3	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	motA	motA	1
+Sg_S7_28	Extracellular enzymes & PGPR-associated traits	Cellulase / cellulose degradation	endoglucanase	cel-3	1
+Sg_S3_1	Extracellular enzymes & PGPR-associated traits	Chitinase / chitin degradation	chitinase	chiA1	1
+Sg_S5_2	Extracellular enzymes & PGPR-associated traits	Glycoside hydrolases	galactosidase	rafA	1
+Sg_S7_1	Extracellular enzymes & PGPR-associated traits	Cellulase / cellulose degradation	beta-glucosidase	bglA_2	1
+Sg_S3_8	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	ipdC	ipdC	1
+Sg_S3_8	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpA	trpA	1
+Sg_S4_6	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpA	trpA	1
+Sg_S5_2	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpA	trpA	1
+Sg_S7_1	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpA	trpA	1
+Sg_S7_1	Extracellular enzymes & PGPR-associated traits	Cellulase / cellulose degradation	cellulase	celE	1
+Sg_S7_28	Extracellular enzymes & PGPR-associated traits	Amylase / starch degradation	amylase	treS	1
+Sg_S4_6	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheA	cheA	1
+Sg_S5_2	Extracellular enzymes & PGPR-associated traits	Biofilm, motility & colonization	cheA	cheA	1
+Sg_S7_28	Extracellular enzymes & PGPR-associated traits	Glycoside hydrolases	xylanase	xynZ	1
+Sg_S7_28	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpA	trpA	1
+Sg_S3_8	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpB	trpB_3	1
+Sg_S4_6	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpB	trpB_3	1
+Sg_S5_2	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpB	trpB_3	1
+Sg_S3_8	Extracellular enzymes & PGPR-associated traits	Amylase / starch degradation	amylase	treS	1
+Sg_S4_6	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpC	trpC	1
+Sg_S5_2	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpC	trpC	1
+Sg_S7_1	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpC	trpC	1
+Sg_S7_7	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpC	trpC	1
+Sg_S4_6	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpD	trpD	1
+Sg_S7_1	Extracellular enzymes & PGPR-associated traits	IAA/auxin-related metabolism	trpD	trpD	1
+Sg_S3_8	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	phoR	phoR	1
+Sg_S3_8	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	alkaline phosphatase	pehA	1
+Sg_S7_7	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	pstA	pstA	1
+Sg_S7_7	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	ppa	ppa	1
+Sg_S3_8	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	pstC	pstC	1
+Sg_S7_7	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	pstC	pstC	1
+Sg_S7_7	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	pstS	pstS	1
+Sg_S7_7	Extracellular enzymes & PGPR-associated traits	Phosphate solubilization	pstB	pstB	1
+Sg_S7_8	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene synthase	crtB	1
+Sg_S7_9	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene synthase	crtB	1
+Sg_S7_28	Microbe–plant interaction	Ethylene-related	acdS	acdS	1
+Sg_S1_3	Microbe–plant interaction	Stress response & detoxification	catalase	katG	1
+Sg_S4_6	Microbe–plant interaction	Stress response & detoxification	catalase	katG	1
+Sg_S6_2	Microbe–plant interaction	Stress response & detoxification	catalase	katG	1
+Sg_S1_3	Microbe–plant interaction	Aromatic compound metabolism	phenylacetate	paaK	1
+Sg_S7_10	Microbe–plant interaction	Aromatic compound metabolism	phenylacetate	paaK	1
+Sg_S7_28	Microbe–plant interaction	Aromatic compound metabolism	phenylacetate	paaK	1
+Sg_S7_7	Microbe–plant interaction	Aromatic compound metabolism	phenylacetate	paaK	1
+Sg_S7_8	Microbe–plant interaction	Aromatic compound metabolism	phenylacetate	paaK	1
+Sg_S7_9	Microbe–plant interaction	Aromatic compound metabolism	phenylacetate	paaK	1
+Sg_S6_2	Microbe–plant interaction	Aromatic compound metabolism	salicylate	nagG	1
+Sg_S9_9	Microbe–plant interaction	Aromatic compound metabolism	salicylate	nagG	1
+Sg_S4_6	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene desaturase	crtI	1
+Sg_S6_2	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene desaturase	crtI	1
+Sg_S7_20	Microbe–plant interaction	Stress response & detoxification	catalase	katG	1
+Sg_S7_8	Microbe–plant interaction	Stress response & detoxification	catalase	katG	1
+Sg_S7_9	Microbe–plant interaction	Stress response & detoxification	catalase	katG	1
+Sg_S9_9	Microbe–plant interaction	Stress response & detoxification	catalase	katG	1
+Sg_S4_6	Microbe–plant interaction	Stress response & detoxification	cold shock protein	cspA_5	1
+Sg_S5_2	Microbe–plant interaction	Stress response & detoxification	cold shock protein	cspA_5	1
+Sg_S6_5	Microbe–plant interaction	Stress response & detoxification	cold shock protein	cspA_5	1
+Sg_S7_1	Microbe–plant interaction	Stress response & detoxification	cold shock protein	cspA_5	1
+Sg_S7_10	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene desaturase	crtI	1
+Sg_S7_19	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene desaturase	crtI	1
+Sg_S7_8	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene desaturase	crtI	1
+Sg_S4_6	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene synthase	crtB	1
+Sg_S6_5	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene synthase	crtB	1
+Sg_S7_2	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene synthase	crtB	1
+Sg_S7_20	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene synthase	crtB	1
+Sg_S7_28	Microbe–plant interaction	Carotenoid / isoprenoid biosynthesis	phytoene synthase	crtB	1
+Sg_S1_3	Microbe–plant interaction	Stress response & detoxification	heat shock protein	ibpB	1
+Sg_S7_1	Microbe–plant interaction	Stress response & detoxification	catalase	katG	1
+Sg_S7_19	Microbe–plant interaction	Stress response & detoxification	catalase	katG	1
+Sg_S7_2	Microbe–plant interaction	Stress response & detoxification	catalase	katG	1
+Sg_S7_7	Microbe–plant interaction	Stress response & detoxification	cold shock protein	cspA_5	1
+Sg_S7_19	Microbe–plant interaction	Stress response & detoxification	glutathione S-transferase	gstB_3	1
+Sg_S7_7	Microbe–plant interaction	Stress response & detoxification	glutathione S-transferase	gstB_3	1
+Sg_S6_2	Microbe–plant interaction	Stress response & detoxification	glutathione peroxidase	btuE	1
+Sg_S9_9	Microbe–plant interaction	Stress response & detoxification	glutathione peroxidase	btuE	1
+Sg_S7_7	Microbe–plant interaction	Stress response & detoxification	glutathione reductase	gor	1
+Sg_S7_2	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	1
+Sg_S3_8	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	1
+Sg_S7_9	Microbe–plant interaction	Stress response & detoxification	mshA	mshA_2	1
+Sg_S7_20	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	1
+Sg_S7_7	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	1
+Sg_S7_8	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	1
+Sg_S7_9	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	1
+Sg_S1_3	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	1
+Sg_S3_8	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	1
+Sg_S4_6	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	1
+Sg_S5_2	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	1
+Sg_S1_3	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	1
+Sg_S5_2	Microbe–plant interaction	Stress response & detoxification	superoxide dismutase	sodB	1
+Sg_S6_5	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	1
+Sg_S7_1	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	1
+Sg_S7_19	Microbe–plant interaction	Stress response & detoxification	thioredoxin reductase	trxB	1

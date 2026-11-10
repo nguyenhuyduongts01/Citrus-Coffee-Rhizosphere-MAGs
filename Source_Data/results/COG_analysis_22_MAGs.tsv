@@ -1,0 +1,661 @@
+mag_id	host	condition	site	cog_category	cog_letter	gene_count
+Sg_S2_1	citrus	diseased	Phu Tho	Cellular processes and signaling	J	10
+Sg_S2_1	citrus	diseased	Phu Tho	Cellular processes and signaling	K	140
+Sg_S2_1	citrus	diseased	Phu Tho	Cellular processes and signaling	L	66
+Sg_S2_1	citrus	diseased	Phu Tho	Cellular processes and signaling	M	178
+Sg_S2_1	citrus	diseased	Phu Tho	Cellular processes and signaling	N	69
+Sg_S2_1	citrus	diseased	Phu Tho	Cellular processes and signaling	O	116
+Sg_S2_1	citrus	diseased	Phu Tho	Cellular processes and signaling	P	21
+Sg_S2_1	citrus	diseased	Phu Tho	Cellular processes and signaling	T	60
+Sg_S2_1	citrus	diseased	Phu Tho	Cellular processes and signaling	U	98
+Sg_S2_1	citrus	diseased	Phu Tho	Cellular processes and signaling	V	48
+Sg_S2_1	citrus	diseased	Phu Tho	Information storage and processing	A	188
+Sg_S2_1	citrus	diseased	Phu Tho	Information storage and processing	B	152
+Sg_S2_1	citrus	diseased	Phu Tho	Information storage and processing	C	69
+Sg_S2_1	citrus	diseased	Phu Tho	Information storage and processing	D	44
+Sg_S2_1	citrus	diseased	Phu Tho	Information storage and processing	E	177
+Sg_S2_1	citrus	diseased	Phu Tho	Information storage and processing	F	171
+Sg_S2_1	citrus	diseased	Phu Tho	Information storage and processing	H	20
+Sg_S2_1	citrus	diseased	Phu Tho	Information storage and processing	I	153
+Sg_S2_1	citrus	diseased	Phu Tho	Information storage and processing	J	77
+Sg_S2_1	citrus	diseased	Phu Tho	Information storage and processing	K	153
+Sg_S2_1	citrus	diseased	Phu Tho	Metabolism	C	169
+Sg_S2_1	citrus	diseased	Phu Tho	Metabolism	E	133
+Sg_S2_1	citrus	diseased	Phu Tho	Metabolism	F	140
+Sg_S2_1	citrus	diseased	Phu Tho	Metabolism	G	73
+Sg_S2_1	citrus	diseased	Phu Tho	Metabolism	H	139
+Sg_S2_1	citrus	diseased	Phu Tho	Metabolism	I	96
+Sg_S2_1	citrus	diseased	Phu Tho	Metabolism	P	107
+Sg_S2_1	citrus	diseased	Phu Tho	Metabolism	Q	120
+Sg_S2_1	citrus	diseased	Phu Tho	Poorly characterized	R	47
+Sg_S2_1	citrus	diseased	Phu Tho	Poorly characterized	S	28
+Sg_S3_1	citrus	healthy	Phu Tho	Cellular processes and signaling	J	88
+Sg_S3_1	citrus	healthy	Phu Tho	Cellular processes and signaling	K	21
+Sg_S3_1	citrus	healthy	Phu Tho	Cellular processes and signaling	L	179
+Sg_S3_1	citrus	healthy	Phu Tho	Cellular processes and signaling	M	35
+Sg_S3_1	citrus	healthy	Phu Tho	Cellular processes and signaling	N	143
+Sg_S3_1	citrus	healthy	Phu Tho	Cellular processes and signaling	O	164
+Sg_S3_1	citrus	healthy	Phu Tho	Cellular processes and signaling	P	183
+Sg_S3_1	citrus	healthy	Phu Tho	Cellular processes and signaling	T	153
+Sg_S3_1	citrus	healthy	Phu Tho	Cellular processes and signaling	U	126
+Sg_S3_1	citrus	healthy	Phu Tho	Cellular processes and signaling	V	136
+Sg_S3_1	citrus	healthy	Phu Tho	Information storage and processing	A	199
+Sg_S3_1	citrus	healthy	Phu Tho	Information storage and processing	B	13
+Sg_S3_1	citrus	healthy	Phu Tho	Information storage and processing	C	117
+Sg_S3_1	citrus	healthy	Phu Tho	Information storage and processing	D	61
+Sg_S3_1	citrus	healthy	Phu Tho	Information storage and processing	E	41
+Sg_S3_1	citrus	healthy	Phu Tho	Information storage and processing	F	62
+Sg_S3_1	citrus	healthy	Phu Tho	Information storage and processing	H	91
+Sg_S3_1	citrus	healthy	Phu Tho	Information storage and processing	I	116
+Sg_S3_1	citrus	healthy	Phu Tho	Information storage and processing	J	144
+Sg_S3_1	citrus	healthy	Phu Tho	Information storage and processing	K	126
+Sg_S3_1	citrus	healthy	Phu Tho	Metabolism	C	35
+Sg_S3_1	citrus	healthy	Phu Tho	Metabolism	E	13
+Sg_S3_1	citrus	healthy	Phu Tho	Metabolism	F	131
+Sg_S3_1	citrus	healthy	Phu Tho	Metabolism	G	105
+Sg_S3_1	citrus	healthy	Phu Tho	Metabolism	H	111
+Sg_S3_1	citrus	healthy	Phu Tho	Metabolism	I	79
+Sg_S3_1	citrus	healthy	Phu Tho	Metabolism	P	64
+Sg_S3_1	citrus	healthy	Phu Tho	Metabolism	Q	172
+Sg_S3_1	citrus	healthy	Phu Tho	Poorly characterized	R	88
+Sg_S3_1	citrus	healthy	Phu Tho	Poorly characterized	S	51
+Sg_S3_14	citrus	healthy	Phu Tho	Cellular processes and signaling	J	46
+Sg_S3_14	citrus	healthy	Phu Tho	Cellular processes and signaling	K	131
+Sg_S3_14	citrus	healthy	Phu Tho	Cellular processes and signaling	L	46
+Sg_S3_14	citrus	healthy	Phu Tho	Cellular processes and signaling	M	155
+Sg_S3_14	citrus	healthy	Phu Tho	Cellular processes and signaling	N	30
+Sg_S3_14	citrus	healthy	Phu Tho	Cellular processes and signaling	O	128
+Sg_S3_14	citrus	healthy	Phu Tho	Cellular processes and signaling	P	159
+Sg_S3_14	citrus	healthy	Phu Tho	Cellular processes and signaling	T	81
+Sg_S3_14	citrus	healthy	Phu Tho	Cellular processes and signaling	U	78
+Sg_S3_14	citrus	healthy	Phu Tho	Cellular processes and signaling	V	175
+Sg_S3_14	citrus	healthy	Phu Tho	Information storage and processing	A	99
+Sg_S3_14	citrus	healthy	Phu Tho	Information storage and processing	B	138
+Sg_S3_14	citrus	healthy	Phu Tho	Information storage and processing	C	91
+Sg_S3_14	citrus	healthy	Phu Tho	Information storage and processing	D	81
+Sg_S3_14	citrus	healthy	Phu Tho	Information storage and processing	E	45
+Sg_S3_14	citrus	healthy	Phu Tho	Information storage and processing	F	20
+Sg_S3_14	citrus	healthy	Phu Tho	Information storage and processing	H	98
+Sg_S3_14	citrus	healthy	Phu Tho	Information storage and processing	I	115
+Sg_S3_14	citrus	healthy	Phu Tho	Information storage and processing	J	134
+Sg_S3_14	citrus	healthy	Phu Tho	Information storage and processing	K	177
+Sg_S3_14	citrus	healthy	Phu Tho	Metabolism	C	170
+Sg_S3_14	citrus	healthy	Phu Tho	Metabolism	E	77
+Sg_S3_14	citrus	healthy	Phu Tho	Metabolism	F	152
+Sg_S3_14	citrus	healthy	Phu Tho	Metabolism	G	49
+Sg_S3_14	citrus	healthy	Phu Tho	Metabolism	H	151
+Sg_S3_14	citrus	healthy	Phu Tho	Metabolism	I	190
+Sg_S3_14	citrus	healthy	Phu Tho	Metabolism	P	135
+Sg_S3_14	citrus	healthy	Phu Tho	Metabolism	Q	96
+Sg_S3_14	citrus	healthy	Phu Tho	Poorly characterized	R	18
+Sg_S3_14	citrus	healthy	Phu Tho	Poorly characterized	S	156
+Sg_S4_2	citrus	healthy	Phu Tho	Cellular processes and signaling	J	137
+Sg_S4_2	citrus	healthy	Phu Tho	Cellular processes and signaling	K	156
+Sg_S4_2	citrus	healthy	Phu Tho	Cellular processes and signaling	L	129
+Sg_S4_2	citrus	healthy	Phu Tho	Cellular processes and signaling	M	195
+Sg_S4_2	citrus	healthy	Phu Tho	Cellular processes and signaling	N	23
+Sg_S4_2	citrus	healthy	Phu Tho	Cellular processes and signaling	O	85
+Sg_S4_2	citrus	healthy	Phu Tho	Cellular processes and signaling	P	65
+Sg_S4_2	citrus	healthy	Phu Tho	Cellular processes and signaling	T	191
+Sg_S4_2	citrus	healthy	Phu Tho	Cellular processes and signaling	U	116
+Sg_S4_2	citrus	healthy	Phu Tho	Cellular processes and signaling	V	70
+Sg_S4_2	citrus	healthy	Phu Tho	Information storage and processing	A	100
+Sg_S4_2	citrus	healthy	Phu Tho	Information storage and processing	B	153
+Sg_S4_2	citrus	healthy	Phu Tho	Information storage and processing	C	80
+Sg_S4_2	citrus	healthy	Phu Tho	Information storage and processing	D	127
+Sg_S4_2	citrus	healthy	Phu Tho	Information storage and processing	E	43
+Sg_S4_2	citrus	healthy	Phu Tho	Information storage and processing	F	94
+Sg_S4_2	citrus	healthy	Phu Tho	Information storage and processing	H	31
+Sg_S4_2	citrus	healthy	Phu Tho	Information storage and processing	I	110
+Sg_S4_2	citrus	healthy	Phu Tho	Information storage and processing	J	149
+Sg_S4_2	citrus	healthy	Phu Tho	Information storage and processing	K	146
+Sg_S4_2	citrus	healthy	Phu Tho	Metabolism	C	89
+Sg_S4_2	citrus	healthy	Phu Tho	Metabolism	E	176
+Sg_S4_2	citrus	healthy	Phu Tho	Metabolism	F	88
+Sg_S4_2	citrus	healthy	Phu Tho	Metabolism	G	35
+Sg_S4_2	citrus	healthy	Phu Tho	Metabolism	H	14
+Sg_S4_2	citrus	healthy	Phu Tho	Metabolism	I	96
+Sg_S4_2	citrus	healthy	Phu Tho	Metabolism	P	91
+Sg_S4_2	citrus	healthy	Phu Tho	Metabolism	Q	109
+Sg_S4_2	citrus	healthy	Phu Tho	Poorly characterized	R	178
+Sg_S4_2	citrus	healthy	Phu Tho	Poorly characterized	S	43
+Sg_S4_6	citrus	healthy	Phu Tho	Cellular processes and signaling	J	157
+Sg_S4_6	citrus	healthy	Phu Tho	Cellular processes and signaling	K	182
+Sg_S4_6	citrus	healthy	Phu Tho	Cellular processes and signaling	L	36
+Sg_S4_6	citrus	healthy	Phu Tho	Cellular processes and signaling	M	167
+Sg_S4_6	citrus	healthy	Phu Tho	Cellular processes and signaling	N	31
+Sg_S4_6	citrus	healthy	Phu Tho	Cellular processes and signaling	O	169
+Sg_S4_6	citrus	healthy	Phu Tho	Cellular processes and signaling	P	106
+Sg_S4_6	citrus	healthy	Phu Tho	Cellular processes and signaling	T	110
+Sg_S4_6	citrus	healthy	Phu Tho	Cellular processes and signaling	U	78
+Sg_S4_6	citrus	healthy	Phu Tho	Cellular processes and signaling	V	195
+Sg_S4_6	citrus	healthy	Phu Tho	Information storage and processing	A	169
+Sg_S4_6	citrus	healthy	Phu Tho	Information storage and processing	B	119
+Sg_S4_6	citrus	healthy	Phu Tho	Information storage and processing	C	123
+Sg_S4_6	citrus	healthy	Phu Tho	Information storage and processing	D	14
+Sg_S4_6	citrus	healthy	Phu Tho	Information storage and processing	E	129
+Sg_S4_6	citrus	healthy	Phu Tho	Information storage and processing	F	82
+Sg_S4_6	citrus	healthy	Phu Tho	Information storage and processing	H	101
+Sg_S4_6	citrus	healthy	Phu Tho	Information storage and processing	I	57
+Sg_S4_6	citrus	healthy	Phu Tho	Information storage and processing	J	144
+Sg_S4_6	citrus	healthy	Phu Tho	Information storage and processing	K	146
+Sg_S4_6	citrus	healthy	Phu Tho	Metabolism	C	35
+Sg_S4_6	citrus	healthy	Phu Tho	Metabolism	E	136
+Sg_S4_6	citrus	healthy	Phu Tho	Metabolism	F	186
+Sg_S4_6	citrus	healthy	Phu Tho	Metabolism	G	21
+Sg_S4_6	citrus	healthy	Phu Tho	Metabolism	H	187
+Sg_S4_6	citrus	healthy	Phu Tho	Metabolism	I	139
+Sg_S4_6	citrus	healthy	Phu Tho	Metabolism	P	26
+Sg_S4_6	citrus	healthy	Phu Tho	Metabolism	Q	195
+Sg_S4_6	citrus	healthy	Phu Tho	Poorly characterized	R	138
+Sg_S4_6	citrus	healthy	Phu Tho	Poorly characterized	S	111
+Sg_S5_2	citrus	healthy	Phu Tho	Cellular processes and signaling	J	77
+Sg_S5_2	citrus	healthy	Phu Tho	Cellular processes and signaling	K	135
+Sg_S5_2	citrus	healthy	Phu Tho	Cellular processes and signaling	L	102
+Sg_S5_2	citrus	healthy	Phu Tho	Cellular processes and signaling	M	49
+Sg_S5_2	citrus	healthy	Phu Tho	Cellular processes and signaling	N	69
+Sg_S5_2	citrus	healthy	Phu Tho	Cellular processes and signaling	O	156
+Sg_S5_2	citrus	healthy	Phu Tho	Cellular processes and signaling	P	174
+Sg_S5_2	citrus	healthy	Phu Tho	Cellular processes and signaling	T	37
+Sg_S5_2	citrus	healthy	Phu Tho	Cellular processes and signaling	U	167
+Sg_S5_2	citrus	healthy	Phu Tho	Cellular processes and signaling	V	58
+Sg_S5_2	citrus	healthy	Phu Tho	Information storage and processing	A	61
+Sg_S5_2	citrus	healthy	Phu Tho	Information storage and processing	B	197
+Sg_S5_2	citrus	healthy	Phu Tho	Information storage and processing	C	125
+Sg_S5_2	citrus	healthy	Phu Tho	Information storage and processing	D	61
+Sg_S5_2	citrus	healthy	Phu Tho	Information storage and processing	E	178
+Sg_S5_2	citrus	healthy	Phu Tho	Information storage and processing	F	183
+Sg_S5_2	citrus	healthy	Phu Tho	Information storage and processing	H	45
+Sg_S5_2	citrus	healthy	Phu Tho	Information storage and processing	I	124
+Sg_S5_2	citrus	healthy	Phu Tho	Information storage and processing	J	35
+Sg_S5_2	citrus	healthy	Phu Tho	Information storage and processing	K	180
+Sg_S5_2	citrus	healthy	Phu Tho	Metabolism	C	184
+Sg_S5_2	citrus	healthy	Phu Tho	Metabolism	E	87
+Sg_S5_2	citrus	healthy	Phu Tho	Metabolism	F	103
+Sg_S5_2	citrus	healthy	Phu Tho	Metabolism	G	93
+Sg_S5_2	citrus	healthy	Phu Tho	Metabolism	H	124
+Sg_S5_2	citrus	healthy	Phu Tho	Metabolism	I	140
+Sg_S5_2	citrus	healthy	Phu Tho	Metabolism	P	101
+Sg_S5_2	citrus	healthy	Phu Tho	Metabolism	Q	42
+Sg_S5_2	citrus	healthy	Phu Tho	Poorly characterized	R	39
+Sg_S5_2	citrus	healthy	Phu Tho	Poorly characterized	S	179
+Sg_S6_2	citrus	healthy	Phu Tho	Cellular processes and signaling	J	199
+Sg_S6_2	citrus	healthy	Phu Tho	Cellular processes and signaling	K	195
+Sg_S6_2	citrus	healthy	Phu Tho	Cellular processes and signaling	L	188
+Sg_S6_2	citrus	healthy	Phu Tho	Cellular processes and signaling	M	35
+Sg_S6_2	citrus	healthy	Phu Tho	Cellular processes and signaling	N	58
+Sg_S6_2	citrus	healthy	Phu Tho	Cellular processes and signaling	O	140
+Sg_S6_2	citrus	healthy	Phu Tho	Cellular processes and signaling	P	83
+Sg_S6_2	citrus	healthy	Phu Tho	Cellular processes and signaling	T	35
+Sg_S6_2	citrus	healthy	Phu Tho	Cellular processes and signaling	U	153
+Sg_S6_2	citrus	healthy	Phu Tho	Cellular processes and signaling	V	110
+Sg_S6_2	citrus	healthy	Phu Tho	Information storage and processing	A	127
+Sg_S6_2	citrus	healthy	Phu Tho	Information storage and processing	B	94
+Sg_S6_2	citrus	healthy	Phu Tho	Information storage and processing	C	142
+Sg_S6_2	citrus	healthy	Phu Tho	Information storage and processing	D	140
+Sg_S6_2	citrus	healthy	Phu Tho	Information storage and processing	E	56
+Sg_S6_2	citrus	healthy	Phu Tho	Information storage and processing	F	184
+Sg_S6_2	citrus	healthy	Phu Tho	Information storage and processing	H	17
+Sg_S6_2	citrus	healthy	Phu Tho	Information storage and processing	I	41
+Sg_S6_2	citrus	healthy	Phu Tho	Information storage and processing	J	110
+Sg_S6_2	citrus	healthy	Phu Tho	Information storage and processing	K	171
+Sg_S6_2	citrus	healthy	Phu Tho	Metabolism	C	191
+Sg_S6_2	citrus	healthy	Phu Tho	Metabolism	E	120
+Sg_S6_2	citrus	healthy	Phu Tho	Metabolism	F	193
+Sg_S6_2	citrus	healthy	Phu Tho	Metabolism	G	109
+Sg_S6_2	citrus	healthy	Phu Tho	Metabolism	H	53
+Sg_S6_2	citrus	healthy	Phu Tho	Metabolism	I	28
+Sg_S6_2	citrus	healthy	Phu Tho	Metabolism	P	131
+Sg_S6_2	citrus	healthy	Phu Tho	Metabolism	Q	167
+Sg_S6_2	citrus	healthy	Phu Tho	Poorly characterized	R	140
+Sg_S6_2	citrus	healthy	Phu Tho	Poorly characterized	S	197
+Sg_S6_5	citrus	healthy	Phu Tho	Cellular processes and signaling	J	140
+Sg_S6_5	citrus	healthy	Phu Tho	Cellular processes and signaling	K	72
+Sg_S6_5	citrus	healthy	Phu Tho	Cellular processes and signaling	L	129
+Sg_S6_5	citrus	healthy	Phu Tho	Cellular processes and signaling	M	111
+Sg_S6_5	citrus	healthy	Phu Tho	Cellular processes and signaling	N	188
+Sg_S6_5	citrus	healthy	Phu Tho	Cellular processes and signaling	O	169
+Sg_S6_5	citrus	healthy	Phu Tho	Cellular processes and signaling	P	112
+Sg_S6_5	citrus	healthy	Phu Tho	Cellular processes and signaling	T	97
+Sg_S6_5	citrus	healthy	Phu Tho	Cellular processes and signaling	U	49
+Sg_S6_5	citrus	healthy	Phu Tho	Cellular processes and signaling	V	132
+Sg_S6_5	citrus	healthy	Phu Tho	Information storage and processing	A	21
+Sg_S6_5	citrus	healthy	Phu Tho	Information storage and processing	B	155
+Sg_S6_5	citrus	healthy	Phu Tho	Information storage and processing	C	44
+Sg_S6_5	citrus	healthy	Phu Tho	Information storage and processing	D	63
+Sg_S6_5	citrus	healthy	Phu Tho	Information storage and processing	E	120
+Sg_S6_5	citrus	healthy	Phu Tho	Information storage and processing	F	170
+Sg_S6_5	citrus	healthy	Phu Tho	Information storage and processing	H	43
+Sg_S6_5	citrus	healthy	Phu Tho	Information storage and processing	I	88
+Sg_S6_5	citrus	healthy	Phu Tho	Information storage and processing	J	109
+Sg_S6_5	citrus	healthy	Phu Tho	Information storage and processing	K	122
+Sg_S6_5	citrus	healthy	Phu Tho	Metabolism	C	157
+Sg_S6_5	citrus	healthy	Phu Tho	Metabolism	E	126
+Sg_S6_5	citrus	healthy	Phu Tho	Metabolism	F	90
+Sg_S6_5	citrus	healthy	Phu Tho	Metabolism	G	149
+Sg_S6_5	citrus	healthy	Phu Tho	Metabolism	H	132
+Sg_S6_5	citrus	healthy	Phu Tho	Metabolism	I	173
+Sg_S6_5	citrus	healthy	Phu Tho	Metabolism	P	118
+Sg_S6_5	citrus	healthy	Phu Tho	Metabolism	Q	121
+Sg_S6_5	citrus	healthy	Phu Tho	Poorly characterized	R	192
+Sg_S6_5	citrus	healthy	Phu Tho	Poorly characterized	S	118
+Sg_S7_1	coffee	healthy	Son La	Cellular processes and signaling	J	61
+Sg_S7_1	coffee	healthy	Son La	Cellular processes and signaling	K	199
+Sg_S7_1	coffee	healthy	Son La	Cellular processes and signaling	L	199
+Sg_S7_1	coffee	healthy	Son La	Cellular processes and signaling	M	165
+Sg_S7_1	coffee	healthy	Son La	Cellular processes and signaling	N	162
+Sg_S7_1	coffee	healthy	Son La	Cellular processes and signaling	O	88
+Sg_S7_1	coffee	healthy	Son La	Cellular processes and signaling	P	135
+Sg_S7_1	coffee	healthy	Son La	Cellular processes and signaling	T	129
+Sg_S7_1	coffee	healthy	Son La	Cellular processes and signaling	U	165
+Sg_S7_1	coffee	healthy	Son La	Cellular processes and signaling	V	162
+Sg_S7_1	coffee	healthy	Son La	Information storage and processing	A	179
+Sg_S7_1	coffee	healthy	Son La	Information storage and processing	B	179
+Sg_S7_1	coffee	healthy	Son La	Information storage and processing	C	48
+Sg_S7_1	coffee	healthy	Son La	Information storage and processing	D	156
+Sg_S7_1	coffee	healthy	Son La	Information storage and processing	E	59
+Sg_S7_1	coffee	healthy	Son La	Information storage and processing	F	45
+Sg_S7_1	coffee	healthy	Son La	Information storage and processing	H	49
+Sg_S7_1	coffee	healthy	Son La	Information storage and processing	I	36
+Sg_S7_1	coffee	healthy	Son La	Information storage and processing	J	187
+Sg_S7_1	coffee	healthy	Son La	Information storage and processing	K	160
+Sg_S7_1	coffee	healthy	Son La	Metabolism	C	132
+Sg_S7_1	coffee	healthy	Son La	Metabolism	E	45
+Sg_S7_1	coffee	healthy	Son La	Metabolism	F	127
+Sg_S7_1	coffee	healthy	Son La	Metabolism	G	64
+Sg_S7_1	coffee	healthy	Son La	Metabolism	H	198
+Sg_S7_1	coffee	healthy	Son La	Metabolism	I	197
+Sg_S7_1	coffee	healthy	Son La	Metabolism	P	108
+Sg_S7_1	coffee	healthy	Son La	Metabolism	Q	115
+Sg_S7_1	coffee	healthy	Son La	Poorly characterized	R	78
+Sg_S7_1	coffee	healthy	Son La	Poorly characterized	S	64
+Sg_S7_2	coffee	healthy	Son La	Cellular processes and signaling	J	113
+Sg_S7_2	coffee	healthy	Son La	Cellular processes and signaling	K	169
+Sg_S7_2	coffee	healthy	Son La	Cellular processes and signaling	L	105
+Sg_S7_2	coffee	healthy	Son La	Cellular processes and signaling	M	37
+Sg_S7_2	coffee	healthy	Son La	Cellular processes and signaling	N	17
+Sg_S7_2	coffee	healthy	Son La	Cellular processes and signaling	O	71
+Sg_S7_2	coffee	healthy	Son La	Cellular processes and signaling	P	146
+Sg_S7_2	coffee	healthy	Son La	Cellular processes and signaling	T	177
+Sg_S7_2	coffee	healthy	Son La	Cellular processes and signaling	U	114
+Sg_S7_2	coffee	healthy	Son La	Cellular processes and signaling	V	196
+Sg_S7_2	coffee	healthy	Son La	Information storage and processing	A	156
+Sg_S7_2	coffee	healthy	Son La	Information storage and processing	B	118
+Sg_S7_2	coffee	healthy	Son La	Information storage and processing	C	167
+Sg_S7_2	coffee	healthy	Son La	Information storage and processing	D	21
+Sg_S7_2	coffee	healthy	Son La	Information storage and processing	E	57
+Sg_S7_2	coffee	healthy	Son La	Information storage and processing	F	151
+Sg_S7_2	coffee	healthy	Son La	Information storage and processing	H	183
+Sg_S7_2	coffee	healthy	Son La	Information storage and processing	I	133
+Sg_S7_2	coffee	healthy	Son La	Information storage and processing	J	54
+Sg_S7_2	coffee	healthy	Son La	Information storage and processing	K	107
+Sg_S7_2	coffee	healthy	Son La	Metabolism	C	40
+Sg_S7_2	coffee	healthy	Son La	Metabolism	E	184
+Sg_S7_2	coffee	healthy	Son La	Metabolism	F	153
+Sg_S7_2	coffee	healthy	Son La	Metabolism	G	31
+Sg_S7_2	coffee	healthy	Son La	Metabolism	H	194
+Sg_S7_2	coffee	healthy	Son La	Metabolism	I	80
+Sg_S7_2	coffee	healthy	Son La	Metabolism	P	105
+Sg_S7_2	coffee	healthy	Son La	Metabolism	Q	77
+Sg_S7_2	coffee	healthy	Son La	Poorly characterized	R	124
+Sg_S7_2	coffee	healthy	Son La	Poorly characterized	S	109
+Sg_S7_3	coffee	healthy	Son La	Cellular processes and signaling	J	177
+Sg_S7_3	coffee	healthy	Son La	Cellular processes and signaling	K	66
+Sg_S7_3	coffee	healthy	Son La	Cellular processes and signaling	L	85
+Sg_S7_3	coffee	healthy	Son La	Cellular processes and signaling	M	154
+Sg_S7_3	coffee	healthy	Son La	Cellular processes and signaling	N	146
+Sg_S7_3	coffee	healthy	Son La	Cellular processes and signaling	O	18
+Sg_S7_3	coffee	healthy	Son La	Cellular processes and signaling	P	88
+Sg_S7_3	coffee	healthy	Son La	Cellular processes and signaling	T	15
+Sg_S7_3	coffee	healthy	Son La	Cellular processes and signaling	U	35
+Sg_S7_3	coffee	healthy	Son La	Cellular processes and signaling	V	124
+Sg_S7_3	coffee	healthy	Son La	Information storage and processing	A	66
+Sg_S7_3	coffee	healthy	Son La	Information storage and processing	B	57
+Sg_S7_3	coffee	healthy	Son La	Information storage and processing	C	133
+Sg_S7_3	coffee	healthy	Son La	Information storage and processing	D	98
+Sg_S7_3	coffee	healthy	Son La	Information storage and processing	E	68
+Sg_S7_3	coffee	healthy	Son La	Information storage and processing	F	25
+Sg_S7_3	coffee	healthy	Son La	Information storage and processing	H	187
+Sg_S7_3	coffee	healthy	Son La	Information storage and processing	I	47
+Sg_S7_3	coffee	healthy	Son La	Information storage and processing	J	89
+Sg_S7_3	coffee	healthy	Son La	Information storage and processing	K	199
+Sg_S7_3	coffee	healthy	Son La	Metabolism	C	196
+Sg_S7_3	coffee	healthy	Son La	Metabolism	E	69
+Sg_S7_3	coffee	healthy	Son La	Metabolism	F	138
+Sg_S7_3	coffee	healthy	Son La	Metabolism	G	131
+Sg_S7_3	coffee	healthy	Son La	Metabolism	H	12
+Sg_S7_3	coffee	healthy	Son La	Metabolism	I	43
+Sg_S7_3	coffee	healthy	Son La	Metabolism	P	150
+Sg_S7_3	coffee	healthy	Son La	Metabolism	Q	143
+Sg_S7_3	coffee	healthy	Son La	Poorly characterized	R	198
+Sg_S7_3	coffee	healthy	Son La	Poorly characterized	S	179
+Sg_S7_7	coffee	healthy	Son La	Cellular processes and signaling	J	28
+Sg_S7_7	coffee	healthy	Son La	Cellular processes and signaling	K	17
+Sg_S7_7	coffee	healthy	Son La	Cellular processes and signaling	L	115
+Sg_S7_7	coffee	healthy	Son La	Cellular processes and signaling	M	155
+Sg_S7_7	coffee	healthy	Son La	Cellular processes and signaling	N	103
+Sg_S7_7	coffee	healthy	Son La	Cellular processes and signaling	O	17
+Sg_S7_7	coffee	healthy	Son La	Cellular processes and signaling	P	119
+Sg_S7_7	coffee	healthy	Son La	Cellular processes and signaling	T	74
+Sg_S7_7	coffee	healthy	Son La	Cellular processes and signaling	U	10
+Sg_S7_7	coffee	healthy	Son La	Cellular processes and signaling	V	196
+Sg_S7_7	coffee	healthy	Son La	Information storage and processing	A	148
+Sg_S7_7	coffee	healthy	Son La	Information storage and processing	B	160
+Sg_S7_7	coffee	healthy	Son La	Information storage and processing	C	157
+Sg_S7_7	coffee	healthy	Son La	Information storage and processing	D	186
+Sg_S7_7	coffee	healthy	Son La	Information storage and processing	E	39
+Sg_S7_7	coffee	healthy	Son La	Information storage and processing	F	75
+Sg_S7_7	coffee	healthy	Son La	Information storage and processing	H	45
+Sg_S7_7	coffee	healthy	Son La	Information storage and processing	I	141
+Sg_S7_7	coffee	healthy	Son La	Information storage and processing	J	93
+Sg_S7_7	coffee	healthy	Son La	Information storage and processing	K	116
+Sg_S7_7	coffee	healthy	Son La	Metabolism	C	63
+Sg_S7_7	coffee	healthy	Son La	Metabolism	E	76
+Sg_S7_7	coffee	healthy	Son La	Metabolism	F	55
+Sg_S7_7	coffee	healthy	Son La	Metabolism	G	89
+Sg_S7_7	coffee	healthy	Son La	Metabolism	H	65
+Sg_S7_7	coffee	healthy	Son La	Metabolism	I	173
+Sg_S7_7	coffee	healthy	Son La	Metabolism	P	91
+Sg_S7_7	coffee	healthy	Son La	Metabolism	Q	52
+Sg_S7_7	coffee	healthy	Son La	Poorly characterized	R	173
+Sg_S7_7	coffee	healthy	Son La	Poorly characterized	S	62
+Sg_S7_8	coffee	healthy	Son La	Cellular processes and signaling	J	88
+Sg_S7_8	coffee	healthy	Son La	Cellular processes and signaling	K	170
+Sg_S7_8	coffee	healthy	Son La	Cellular processes and signaling	L	185
+Sg_S7_8	coffee	healthy	Son La	Cellular processes and signaling	M	78
+Sg_S7_8	coffee	healthy	Son La	Cellular processes and signaling	N	53
+Sg_S7_8	coffee	healthy	Son La	Cellular processes and signaling	O	124
+Sg_S7_8	coffee	healthy	Son La	Cellular processes and signaling	P	26
+Sg_S7_8	coffee	healthy	Son La	Cellular processes and signaling	T	100
+Sg_S7_8	coffee	healthy	Son La	Cellular processes and signaling	U	57
+Sg_S7_8	coffee	healthy	Son La	Cellular processes and signaling	V	175
+Sg_S7_8	coffee	healthy	Son La	Information storage and processing	A	35
+Sg_S7_8	coffee	healthy	Son La	Information storage and processing	B	155
+Sg_S7_8	coffee	healthy	Son La	Information storage and processing	C	47
+Sg_S7_8	coffee	healthy	Son La	Information storage and processing	D	125
+Sg_S7_8	coffee	healthy	Son La	Information storage and processing	E	14
+Sg_S7_8	coffee	healthy	Son La	Information storage and processing	F	12
+Sg_S7_8	coffee	healthy	Son La	Information storage and processing	H	14
+Sg_S7_8	coffee	healthy	Son La	Information storage and processing	I	145
+Sg_S7_8	coffee	healthy	Son La	Information storage and processing	J	120
+Sg_S7_8	coffee	healthy	Son La	Information storage and processing	K	36
+Sg_S7_8	coffee	healthy	Son La	Metabolism	C	68
+Sg_S7_8	coffee	healthy	Son La	Metabolism	E	37
+Sg_S7_8	coffee	healthy	Son La	Metabolism	F	163
+Sg_S7_8	coffee	healthy	Son La	Metabolism	G	172
+Sg_S7_8	coffee	healthy	Son La	Metabolism	H	150
+Sg_S7_8	coffee	healthy	Son La	Metabolism	I	104
+Sg_S7_8	coffee	healthy	Son La	Metabolism	P	75
+Sg_S7_8	coffee	healthy	Son La	Metabolism	Q	166
+Sg_S7_8	coffee	healthy	Son La	Poorly characterized	R	181
+Sg_S7_8	coffee	healthy	Son La	Poorly characterized	S	184
+Sg_S7_9	coffee	healthy	Son La	Cellular processes and signaling	J	141
+Sg_S7_9	coffee	healthy	Son La	Cellular processes and signaling	K	21
+Sg_S7_9	coffee	healthy	Son La	Cellular processes and signaling	L	126
+Sg_S7_9	coffee	healthy	Son La	Cellular processes and signaling	M	146
+Sg_S7_9	coffee	healthy	Son La	Cellular processes and signaling	N	120
+Sg_S7_9	coffee	healthy	Son La	Cellular processes and signaling	O	171
+Sg_S7_9	coffee	healthy	Son La	Cellular processes and signaling	P	73
+Sg_S7_9	coffee	healthy	Son La	Cellular processes and signaling	T	67
+Sg_S7_9	coffee	healthy	Son La	Cellular processes and signaling	U	131
+Sg_S7_9	coffee	healthy	Son La	Cellular processes and signaling	V	148
+Sg_S7_9	coffee	healthy	Son La	Information storage and processing	A	65
+Sg_S7_9	coffee	healthy	Son La	Information storage and processing	B	103
+Sg_S7_9	coffee	healthy	Son La	Information storage and processing	C	16
+Sg_S7_9	coffee	healthy	Son La	Information storage and processing	D	195
+Sg_S7_9	coffee	healthy	Son La	Information storage and processing	E	27
+Sg_S7_9	coffee	healthy	Son La	Information storage and processing	F	70
+Sg_S7_9	coffee	healthy	Son La	Information storage and processing	H	64
+Sg_S7_9	coffee	healthy	Son La	Information storage and processing	I	191
+Sg_S7_9	coffee	healthy	Son La	Information storage and processing	J	28
+Sg_S7_9	coffee	healthy	Son La	Information storage and processing	K	180
+Sg_S7_9	coffee	healthy	Son La	Metabolism	C	161
+Sg_S7_9	coffee	healthy	Son La	Metabolism	E	88
+Sg_S7_9	coffee	healthy	Son La	Metabolism	F	30
+Sg_S7_9	coffee	healthy	Son La	Metabolism	G	169
+Sg_S7_9	coffee	healthy	Son La	Metabolism	H	43
+Sg_S7_9	coffee	healthy	Son La	Metabolism	I	98
+Sg_S7_9	coffee	healthy	Son La	Metabolism	P	46
+Sg_S7_9	coffee	healthy	Son La	Metabolism	Q	38
+Sg_S7_9	coffee	healthy	Son La	Poorly characterized	R	111
+Sg_S7_9	coffee	healthy	Son La	Poorly characterized	S	127
+Sg_S7_19	coffee	healthy	Son La	Cellular processes and signaling	J	108
+Sg_S7_19	coffee	healthy	Son La	Cellular processes and signaling	K	193
+Sg_S7_19	coffee	healthy	Son La	Cellular processes and signaling	L	65
+Sg_S7_19	coffee	healthy	Son La	Cellular processes and signaling	M	106
+Sg_S7_19	coffee	healthy	Son La	Cellular processes and signaling	N	142
+Sg_S7_19	coffee	healthy	Son La	Cellular processes and signaling	O	176
+Sg_S7_19	coffee	healthy	Son La	Cellular processes and signaling	P	16
+Sg_S7_19	coffee	healthy	Son La	Cellular processes and signaling	T	90
+Sg_S7_19	coffee	healthy	Son La	Cellular processes and signaling	U	129
+Sg_S7_19	coffee	healthy	Son La	Cellular processes and signaling	V	174
+Sg_S7_19	coffee	healthy	Son La	Information storage and processing	A	80
+Sg_S7_19	coffee	healthy	Son La	Information storage and processing	B	47
+Sg_S7_19	coffee	healthy	Son La	Information storage and processing	C	33
+Sg_S7_19	coffee	healthy	Son La	Information storage and processing	D	57
+Sg_S7_19	coffee	healthy	Son La	Information storage and processing	E	118
+Sg_S7_19	coffee	healthy	Son La	Information storage and processing	F	101
+Sg_S7_19	coffee	healthy	Son La	Information storage and processing	H	58
+Sg_S7_19	coffee	healthy	Son La	Information storage and processing	I	69
+Sg_S7_19	coffee	healthy	Son La	Information storage and processing	J	46
+Sg_S7_19	coffee	healthy	Son La	Information storage and processing	K	174
+Sg_S7_19	coffee	healthy	Son La	Metabolism	C	138
+Sg_S7_19	coffee	healthy	Son La	Metabolism	E	39
+Sg_S7_19	coffee	healthy	Son La	Metabolism	F	93
+Sg_S7_19	coffee	healthy	Son La	Metabolism	G	186
+Sg_S7_19	coffee	healthy	Son La	Metabolism	H	151
+Sg_S7_19	coffee	healthy	Son La	Metabolism	I	187
+Sg_S7_19	coffee	healthy	Son La	Metabolism	P	10
+Sg_S7_19	coffee	healthy	Son La	Metabolism	Q	20
+Sg_S7_19	coffee	healthy	Son La	Poorly characterized	R	154
+Sg_S7_19	coffee	healthy	Son La	Poorly characterized	S	15
+Sg_S7_20	coffee	healthy	Son La	Cellular processes and signaling	J	191
+Sg_S7_20	coffee	healthy	Son La	Cellular processes and signaling	K	130
+Sg_S7_20	coffee	healthy	Son La	Cellular processes and signaling	L	132
+Sg_S7_20	coffee	healthy	Son La	Cellular processes and signaling	M	35
+Sg_S7_20	coffee	healthy	Son La	Cellular processes and signaling	N	93
+Sg_S7_20	coffee	healthy	Son La	Cellular processes and signaling	O	72
+Sg_S7_20	coffee	healthy	Son La	Cellular processes and signaling	P	31
+Sg_S7_20	coffee	healthy	Son La	Cellular processes and signaling	T	165
+Sg_S7_20	coffee	healthy	Son La	Cellular processes and signaling	U	11
+Sg_S7_20	coffee	healthy	Son La	Cellular processes and signaling	V	41
+Sg_S7_20	coffee	healthy	Son La	Information storage and processing	A	110
+Sg_S7_20	coffee	healthy	Son La	Information storage and processing	B	80
+Sg_S7_20	coffee	healthy	Son La	Information storage and processing	C	69
+Sg_S7_20	coffee	healthy	Son La	Information storage and processing	D	29
+Sg_S7_20	coffee	healthy	Son La	Information storage and processing	E	130
+Sg_S7_20	coffee	healthy	Son La	Information storage and processing	F	95
+Sg_S7_20	coffee	healthy	Son La	Information storage and processing	H	130
+Sg_S7_20	coffee	healthy	Son La	Information storage and processing	I	54
+Sg_S7_20	coffee	healthy	Son La	Information storage and processing	J	143
+Sg_S7_20	coffee	healthy	Son La	Information storage and processing	K	182
+Sg_S7_20	coffee	healthy	Son La	Metabolism	C	193
+Sg_S7_20	coffee	healthy	Son La	Metabolism	E	114
+Sg_S7_20	coffee	healthy	Son La	Metabolism	F	39
+Sg_S7_20	coffee	healthy	Son La	Metabolism	G	192
+Sg_S7_20	coffee	healthy	Son La	Metabolism	H	94
+Sg_S7_20	coffee	healthy	Son La	Metabolism	I	99
+Sg_S7_20	coffee	healthy	Son La	Metabolism	P	103
+Sg_S7_20	coffee	healthy	Son La	Metabolism	Q	182
+Sg_S7_20	coffee	healthy	Son La	Poorly characterized	R	141
+Sg_S7_20	coffee	healthy	Son La	Poorly characterized	S	68
+Sg_S9_3	coffee	diseased	Son La	Cellular processes and signaling	J	28
+Sg_S9_3	coffee	diseased	Son La	Cellular processes and signaling	K	38
+Sg_S9_3	coffee	diseased	Son La	Cellular processes and signaling	L	21
+Sg_S9_3	coffee	diseased	Son La	Cellular processes and signaling	M	81
+Sg_S9_3	coffee	diseased	Son La	Cellular processes and signaling	N	173
+Sg_S9_3	coffee	diseased	Son La	Cellular processes and signaling	O	132
+Sg_S9_3	coffee	diseased	Son La	Cellular processes and signaling	P	73
+Sg_S9_3	coffee	diseased	Son La	Cellular processes and signaling	T	195
+Sg_S9_3	coffee	diseased	Son La	Cellular processes and signaling	U	37
+Sg_S9_3	coffee	diseased	Son La	Cellular processes and signaling	V	35
+Sg_S9_3	coffee	diseased	Son La	Information storage and processing	A	177
+Sg_S9_3	coffee	diseased	Son La	Information storage and processing	B	131
+Sg_S9_3	coffee	diseased	Son La	Information storage and processing	C	138
+Sg_S9_3	coffee	diseased	Son La	Information storage and processing	D	164
+Sg_S9_3	coffee	diseased	Son La	Information storage and processing	E	132
+Sg_S9_3	coffee	diseased	Son La	Information storage and processing	F	181
+Sg_S9_3	coffee	diseased	Son La	Information storage and processing	H	76
+Sg_S9_3	coffee	diseased	Son La	Information storage and processing	I	103
+Sg_S9_3	coffee	diseased	Son La	Information storage and processing	J	69
+Sg_S9_3	coffee	diseased	Son La	Information storage and processing	K	180
+Sg_S9_3	coffee	diseased	Son La	Metabolism	C	91
+Sg_S9_3	coffee	diseased	Son La	Metabolism	E	40
+Sg_S9_3	coffee	diseased	Son La	Metabolism	F	183
+Sg_S9_3	coffee	diseased	Son La	Metabolism	G	135
+Sg_S9_3	coffee	diseased	Son La	Metabolism	H	66
+Sg_S9_3	coffee	diseased	Son La	Metabolism	I	145
+Sg_S9_3	coffee	diseased	Son La	Metabolism	P	21
+Sg_S9_3	coffee	diseased	Son La	Metabolism	Q	153
+Sg_S9_3	coffee	diseased	Son La	Poorly characterized	R	122
+Sg_S9_3	coffee	diseased	Son La	Poorly characterized	S	118
+Sg_S9_9	coffee	diseased	Son La	Cellular processes and signaling	J	125
+Sg_S9_9	coffee	diseased	Son La	Cellular processes and signaling	K	146
+Sg_S9_9	coffee	diseased	Son La	Cellular processes and signaling	L	102
+Sg_S9_9	coffee	diseased	Son La	Cellular processes and signaling	M	133
+Sg_S9_9	coffee	diseased	Son La	Cellular processes and signaling	N	78
+Sg_S9_9	coffee	diseased	Son La	Cellular processes and signaling	O	103
+Sg_S9_9	coffee	diseased	Son La	Cellular processes and signaling	P	144
+Sg_S9_9	coffee	diseased	Son La	Cellular processes and signaling	T	67
+Sg_S9_9	coffee	diseased	Son La	Cellular processes and signaling	U	115
+Sg_S9_9	coffee	diseased	Son La	Cellular processes and signaling	V	188
+Sg_S9_9	coffee	diseased	Son La	Information storage and processing	A	28
+Sg_S9_9	coffee	diseased	Son La	Information storage and processing	B	181
+Sg_S9_9	coffee	diseased	Son La	Information storage and processing	C	42
+Sg_S9_9	coffee	diseased	Son La	Information storage and processing	D	36
+Sg_S9_9	coffee	diseased	Son La	Information storage and processing	E	110
+Sg_S9_9	coffee	diseased	Son La	Information storage and processing	F	62
+Sg_S9_9	coffee	diseased	Son La	Information storage and processing	H	185
+Sg_S9_9	coffee	diseased	Son La	Information storage and processing	I	66
+Sg_S9_9	coffee	diseased	Son La	Information storage and processing	J	31
+Sg_S9_9	coffee	diseased	Son La	Information storage and processing	K	136
+Sg_S9_9	coffee	diseased	Son La	Metabolism	C	144
+Sg_S9_9	coffee	diseased	Son La	Metabolism	E	168
+Sg_S9_9	coffee	diseased	Son La	Metabolism	F	90
+Sg_S9_9	coffee	diseased	Son La	Metabolism	G	198
+Sg_S9_9	coffee	diseased	Son La	Metabolism	H	158
+Sg_S9_9	coffee	diseased	Son La	Metabolism	I	142
+Sg_S9_9	coffee	diseased	Son La	Metabolism	P	188
+Sg_S9_9	coffee	diseased	Son La	Metabolism	Q	198
+Sg_S9_9	coffee	diseased	Son La	Poorly characterized	R	147
+Sg_S9_9	coffee	diseased	Son La	Poorly characterized	S	66
+Sg_S14_1	coffee	diseased	Son La	Cellular processes and signaling	J	102
+Sg_S14_1	coffee	diseased	Son La	Cellular processes and signaling	K	88
+Sg_S14_1	coffee	diseased	Son La	Cellular processes and signaling	L	37
+Sg_S14_1	coffee	diseased	Son La	Cellular processes and signaling	M	194
+Sg_S14_1	coffee	diseased	Son La	Cellular processes and signaling	N	192
+Sg_S14_1	coffee	diseased	Son La	Cellular processes and signaling	O	55
+Sg_S14_1	coffee	diseased	Son La	Cellular processes and signaling	P	131
+Sg_S14_1	coffee	diseased	Son La	Cellular processes and signaling	T	43
+Sg_S14_1	coffee	diseased	Son La	Cellular processes and signaling	U	124
+Sg_S14_1	coffee	diseased	Son La	Cellular processes and signaling	V	97
+Sg_S14_1	coffee	diseased	Son La	Information storage and processing	A	53
+Sg_S14_1	coffee	diseased	Son La	Information storage and processing	B	27
+Sg_S14_1	coffee	diseased	Son La	Information storage and processing	C	52
+Sg_S14_1	coffee	diseased	Son La	Information storage and processing	D	15
+Sg_S14_1	coffee	diseased	Son La	Information storage and processing	E	187
+Sg_S14_1	coffee	diseased	Son La	Information storage and processing	F	145
+Sg_S14_1	coffee	diseased	Son La	Information storage and processing	H	45
+Sg_S14_1	coffee	diseased	Son La	Information storage and processing	I	27
+Sg_S14_1	coffee	diseased	Son La	Information storage and processing	J	36
+Sg_S14_1	coffee	diseased	Son La	Information storage and processing	K	151
+Sg_S14_1	coffee	diseased	Son La	Metabolism	C	144
+Sg_S14_1	coffee	diseased	Son La	Metabolism	E	183
+Sg_S14_1	coffee	diseased	Son La	Metabolism	F	152
+Sg_S14_1	coffee	diseased	Son La	Metabolism	G	62
+Sg_S14_1	coffee	diseased	Son La	Metabolism	H	152
+Sg_S14_1	coffee	diseased	Son La	Metabolism	I	81
+Sg_S14_1	coffee	diseased	Son La	Metabolism	P	152
+Sg_S14_1	coffee	diseased	Son La	Metabolism	Q	176
+Sg_S14_1	coffee	diseased	Son La	Poorly characterized	R	24
+Sg_S14_1	coffee	diseased	Son La	Poorly characterized	S	159
+Sg_S14_4	coffee	diseased	Son La	Cellular processes and signaling	J	158
+Sg_S14_4	coffee	diseased	Son La	Cellular processes and signaling	K	179
+Sg_S14_4	coffee	diseased	Son La	Cellular processes and signaling	L	145
+Sg_S14_4	coffee	diseased	Son La	Cellular processes and signaling	M	42
+Sg_S14_4	coffee	diseased	Son La	Cellular processes and signaling	N	197
+Sg_S14_4	coffee	diseased	Son La	Cellular processes and signaling	O	105
+Sg_S14_4	coffee	diseased	Son La	Cellular processes and signaling	P	152
+Sg_S14_4	coffee	diseased	Son La	Cellular processes and signaling	T	93
+Sg_S14_4	coffee	diseased	Son La	Cellular processes and signaling	U	193
+Sg_S14_4	coffee	diseased	Son La	Cellular processes and signaling	V	69
+Sg_S14_4	coffee	diseased	Son La	Information storage and processing	A	15
+Sg_S14_4	coffee	diseased	Son La	Information storage and processing	B	39
+Sg_S14_4	coffee	diseased	Son La	Information storage and processing	C	112
+Sg_S14_4	coffee	diseased	Son La	Information storage and processing	D	35
+Sg_S14_4	coffee	diseased	Son La	Information storage and processing	E	168
+Sg_S14_4	coffee	diseased	Son La	Information storage and processing	F	31
+Sg_S14_4	coffee	diseased	Son La	Information storage and processing	H	160
+Sg_S14_4	coffee	diseased	Son La	Information storage and processing	I	35
+Sg_S14_4	coffee	diseased	Son La	Information storage and processing	J	155
+Sg_S14_4	coffee	diseased	Son La	Information storage and processing	K	84
+Sg_S14_4	coffee	diseased	Son La	Metabolism	C	141
+Sg_S14_4	coffee	diseased	Son La	Metabolism	E	106
+Sg_S14_4	coffee	diseased	Son La	Metabolism	F	114
+Sg_S14_4	coffee	diseased	Son La	Metabolism	G	181
+Sg_S14_4	coffee	diseased	Son La	Metabolism	H	24
+Sg_S14_4	coffee	diseased	Son La	Metabolism	I	70
+Sg_S14_4	coffee	diseased	Son La	Metabolism	P	41
+Sg_S14_4	coffee	diseased	Son La	Metabolism	Q	129
+Sg_S14_4	coffee	diseased	Son La	Poorly characterized	R	153
+Sg_S14_4	coffee	diseased	Son La	Poorly characterized	S	28
+Sg_S14_8	coffee	diseased	Son La	Cellular processes and signaling	J	60
+Sg_S14_8	coffee	diseased	Son La	Cellular processes and signaling	K	174
+Sg_S14_8	coffee	diseased	Son La	Cellular processes and signaling	L	171
+Sg_S14_8	coffee	diseased	Son La	Cellular processes and signaling	M	98
+Sg_S14_8	coffee	diseased	Son La	Cellular processes and signaling	N	104
+Sg_S14_8	coffee	diseased	Son La	Cellular processes and signaling	O	141
+Sg_S14_8	coffee	diseased	Son La	Cellular processes and signaling	P	197
+Sg_S14_8	coffee	diseased	Son La	Cellular processes and signaling	T	137
+Sg_S14_8	coffee	diseased	Son La	Cellular processes and signaling	U	89
+Sg_S14_8	coffee	diseased	Son La	Cellular processes and signaling	V	14
+Sg_S14_8	coffee	diseased	Son La	Information storage and processing	A	53
+Sg_S14_8	coffee	diseased	Son La	Information storage and processing	B	46
+Sg_S14_8	coffee	diseased	Son La	Information storage and processing	C	160
+Sg_S14_8	coffee	diseased	Son La	Information storage and processing	D	64
+Sg_S14_8	coffee	diseased	Son La	Information storage and processing	E	36
+Sg_S14_8	coffee	diseased	Son La	Information storage and processing	F	93
+Sg_S14_8	coffee	diseased	Son La	Information storage and processing	H	109
+Sg_S14_8	coffee	diseased	Son La	Information storage and processing	I	195
+Sg_S14_8	coffee	diseased	Son La	Information storage and processing	J	164
+Sg_S14_8	coffee	diseased	Son La	Information storage and processing	K	137
+Sg_S14_8	coffee	diseased	Son La	Metabolism	C	144
+Sg_S14_8	coffee	diseased	Son La	Metabolism	E	100
+Sg_S14_8	coffee	diseased	Son La	Metabolism	F	36
+Sg_S14_8	coffee	diseased	Son La	Metabolism	G	48
+Sg_S14_8	coffee	diseased	Son La	Metabolism	H	107
+Sg_S14_8	coffee	diseased	Son La	Metabolism	I	57
+Sg_S14_8	coffee	diseased	Son La	Metabolism	P	184
+Sg_S14_8	coffee	diseased	Son La	Metabolism	Q	127
+Sg_S14_8	coffee	diseased	Son La	Poorly characterized	R	45
+Sg_S14_8	coffee	diseased	Son La	Poorly characterized	S	198
+Sg_S14_10	coffee	diseased	Son La	Cellular processes and signaling	J	49
+Sg_S14_10	coffee	diseased	Son La	Cellular processes and signaling	K	161
+Sg_S14_10	coffee	diseased	Son La	Cellular processes and signaling	L	124
+Sg_S14_10	coffee	diseased	Son La	Cellular processes and signaling	M	72
+Sg_S14_10	coffee	diseased	Son La	Cellular processes and signaling	N	37
+Sg_S14_10	coffee	diseased	Son La	Cellular processes and signaling	O	122
+Sg_S14_10	coffee	diseased	Son La	Cellular processes and signaling	P	14
+Sg_S14_10	coffee	diseased	Son La	Cellular processes and signaling	T	138
+Sg_S14_10	coffee	diseased	Son La	Cellular processes and signaling	U	178
+Sg_S14_10	coffee	diseased	Son La	Cellular processes and signaling	V	26
+Sg_S14_10	coffee	diseased	Son La	Information storage and processing	A	99
+Sg_S14_10	coffee	diseased	Son La	Information storage and processing	B	184
+Sg_S14_10	coffee	diseased	Son La	Information storage and processing	C	151
+Sg_S14_10	coffee	diseased	Son La	Information storage and processing	D	75
+Sg_S14_10	coffee	diseased	Son La	Information storage and processing	E	41
+Sg_S14_10	coffee	diseased	Son La	Information storage and processing	F	90
+Sg_S14_10	coffee	diseased	Son La	Information storage and processing	H	152
+Sg_S14_10	coffee	diseased	Son La	Information storage and processing	I	123
+Sg_S14_10	coffee	diseased	Son La	Information storage and processing	J	165
+Sg_S14_10	coffee	diseased	Son La	Information storage and processing	K	126
+Sg_S14_10	coffee	diseased	Son La	Metabolism	C	111
+Sg_S14_10	coffee	diseased	Son La	Metabolism	E	121
+Sg_S14_10	coffee	diseased	Son La	Metabolism	F	82
+Sg_S14_10	coffee	diseased	Son La	Metabolism	G	189
+Sg_S14_10	coffee	diseased	Son La	Metabolism	H	104
+Sg_S14_10	coffee	diseased	Son La	Metabolism	I	20
+Sg_S14_10	coffee	diseased	Son La	Metabolism	P	25
+Sg_S14_10	coffee	diseased	Son La	Metabolism	Q	153
+Sg_S14_10	coffee	diseased	Son La	Poorly characterized	R	43
+Sg_S14_10	coffee	diseased	Son La	Poorly characterized	S	34

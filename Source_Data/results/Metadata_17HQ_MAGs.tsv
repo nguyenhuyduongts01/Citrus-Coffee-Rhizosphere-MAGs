@@ -1,0 +1,18 @@
+genome	completeness	contamination	strain_heterogeneity	length	N50	mag	domain	phylum	class	order	family	genus	species	sample	host	condition	collection_site	sample_type
+Sg_S1_3.fa	94.44	4.65	27.27	5800060	18306	Sg_S1_3	Bacteria	Acidobacteriota	Terriglobia	Terriglobales	SbA1			S1	Citrus	Disease	Phu Tho	Citrus
+Sg_S3_1.fa	96.52	1.72	40.0	5178098	16753	Sg_S3_1	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	VBAU01		S3	Citrus	Disease	Phu Tho	soil
+Sg_S3_8.fa	90.27	2.99	58.33	3394130	15277	Sg_S3_8	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	UBA10450	Udaeobacter		S3	Citrus	Disease	Phu Tho	Citrus
+Sg_S4_6.fa	90.66	3.8	0.0	3545238	9602	Sg_S4_6	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	GWC2-71-9	JAGGAG01		S4	Citrus	Disease	Phu Tho	soil
+Sg_S5_2.fa	94.22	1.85	0.0	2650315	18548	Sg_S5_2	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	GWC2-71-9	CAMLHP01		S5	Citrus	Healthy	Phu Tho	soil
+Sg_S6_2.fa	95.24	2.14	25.0	2708872	29061	Sg_S6_2	Bacteria	Pseudomonadota	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	SCUD01		S6	Citrus	Healthy	Phu Tho	soil
+Sg_S6_5.fa	96.32	3.13	11.76	5140382	15629	Sg_S6_5	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	JAEUPI01		S6	Citrus	Healthy	Phu Tho	soil
+Sg_S7_1.fa	92.45	2.38	36.36	4160639	10809	Sg_S7_1	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	FW021-bin31		S7	Coffee	Healthy	Son La	soil
+Sg_S7_10.fa	92.0	4.76	76.19	3531066	10100	Sg_S7_10	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Micrococcaceae	Sinomonas		S7	Coffee	Healthy	Son La	soil
+Sg_S7_19.fa	91.38	1.53	50.0	3424360	31875	Sg_S7_19	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys		S7	Coffee	Healthy	Son La	soil
+Sg_S7_2.fa	95.61	1.93	20.0	3755062	38488	Sg_S7_2	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Casimicrobiaceae	VBCG01	VBCG01 sp025935675	S7	Coffee	Healthy	Son La	soil
+Sg_S7_20.fa	97.47	0.5	50.0	2906969	22983	Sg_S7_20	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	JAGOAJ01		S7	Coffee	Healthy	Son La	soil
+Sg_S7_28.fa	95.83	3.45	50.0	3468622	87179	Sg_S7_28	Bacteria	Actinomycetota	Thermoleophilia	Gaiellales	Gaiellaceae	PALSA-600		S7	Coffee	Healthy	Son La	soil
+Sg_S7_7.fa	91.58	2.33	66.67	2164034	16780	Sg_S7_7	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomicrobium		S7	Coffee	Healthy	Son La	soil
+Sg_S7_8.fa	95.41	3.48	50.0	3386608	22710	Sg_S7_8	Bacteria	Actinomycetota	Actinomycetes	Acidothermales	Acidothermaceae	JAICLV01		S7	Coffee	Healthy	Son La	soil
+Sg_S7_9.fa	96.87	3.44	73.33	2066571	16196	Sg_S7_9	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae			S7	Coffee	Healthy	Son La	soil
+Sg_S9_9.fa	94.57	2.96	46.67	5124470	23367	Sg_S9_9	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	BOG-931		S9	Coffee	Disease	Son La	soil
